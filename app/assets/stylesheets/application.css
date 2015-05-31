@@ -15,3 +15,40 @@
  *= require refinery/theme
  *= require_self
  */
+
+body {
+  background: #EEEEEE;
+  font-family: "pt-sans-caption";
+  color: #424242;
+}
+
+h1 {
+  font-size: 64px;
+  margin: 20px 0;
+}
+
+#logo {
+  margin-bottom: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #0EB7DE;
+  font-weight: bold;
+}
+
+.emoji {
+  font-family: Symbol;
+}
+
+.logo-emoji {
+  color: #E6368D;
+}
+
+.logo-party {
+  color: #0EB7DE;
+}
+
+.subtitle {
+  font-style: italic;
+}

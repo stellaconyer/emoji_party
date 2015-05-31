@@ -1,0 +1,8 @@
+<h1 id='logo'>
+  <!-- <%= link_to Refinery::Core.site_name, refinery.root_path %> -->
+  <span class="logo-emoji">emoji</span> <span class="logo-tada emoji">&#x1F389;</span> <span class="logo-party">party</span>
+</h1>
+
+<div class="subtitle">Cool tagline of what we’re all about</div>
+
+<%= Refinery::Pages::MenuPresenter.new(refinery_menu_pages, self).to_html %>
