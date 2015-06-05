@@ -1,0 +1,29 @@
+@import 'colors';
+
+#blog_posts {
+  .blog_post {
+    background: white;
+    padding: 20px 10px;
+    width: 640px;
+    margin-bottom: 20px;
+
+    h2 {
+      font-size: 20px;
+    }
+
+    .blog_content {
+      font-size: 14px;
+      line-height: 24px;
+      margin: 20px 0;
+    }
+
+    time {
+      color: $deemphasized;
+    }
+
+    .post_tag {
+      margin-right: 10px;
+      font-size: 12px;
+    }
+  }  
+}

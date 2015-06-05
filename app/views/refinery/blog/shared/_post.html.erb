@@ -36,7 +36,6 @@
           <% tags.each do |tag| %>
             <%= link_to "##{tag}", refinery.blog_tagged_posts_path(tag.id, tag.name.parameterize), class: 'post_tag' %>
           <% end %>
-
         </aside>
       <% end %>
 

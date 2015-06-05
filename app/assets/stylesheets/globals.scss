@@ -1,0 +1,64 @@
+@import 'colors';
+
+body {
+  background: $background_gray;
+  font-family: "pt-sans-caption";
+  color: $default_gray;
+  padding: 0;
+}
+
+#page_container {
+  width: 960px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 64px;
+  margin: 20px 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+p {
+  margin: 10px 0;
+}
+
+#header {
+  #logo {
+    margin-bottom: 0;
+
+    .logo-emoji {
+      color: $party_pink;
+    }
+
+    .logo-party {
+      color: $party_blue;
+    }
+  }
+
+  .subtitle {
+    font-style: italic;
+    margin-bottom: 20px;
+  }
+}
+
+a {
+  text-decoration: none;
+  color: $party_blue;
+  font-weight: bold;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.emoji {
+  font-family: Symbol;
+}
+
+/* maybe figure out a better way to hide these things */
+#body_content_title, #menu, #side_body, .comment_count {
+  display: none;
+}
