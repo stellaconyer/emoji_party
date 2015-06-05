@@ -20,11 +20,25 @@ body {
   background: #EEEEEE;
   font-family: "pt-sans-caption";
   color: #424242;
+  padding: 0;
+}
+
+#page_container {
+  width: 960px;
+  margin: 0 auto;
 }
 
 h1 {
   font-size: 64px;
   margin: 20px 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+p {
+  margin: 10px 0;
 }
 
 #logo {
@@ -35,6 +49,10 @@ a {
   text-decoration: none;
   color: #0EB7DE;
   font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 .emoji {
@@ -51,4 +69,36 @@ a {
 
 .subtitle {
   font-style: italic;
+  margin-bottom: 20px;
+}
+
+/* maybe figure out a better way to hide these things */
+#body_content_title, #menu, #side_body, .comment_count {
+  display: none;
+}
+
+.blog_post {
+  background: white;
+  padding: 20px 10px;
+  width: 640px;
+  margin-bottom: 20px;
+}
+
+.blog_post h2 {
+  font-size: 20px;
+}
+
+.blog_content {
+  font-size: 14px;
+  line-height: 24px;
+  margin: 20px 0;
+}
+
+.blog_post time {
+  color: #797979;
+}
+
+.post_tag {
+  margin-right: 10px;
+  font-size: 12px;
 }
