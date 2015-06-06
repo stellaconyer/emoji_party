@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150530230473) do
+ActiveRecord::Schema.define(version: 20150605194614) do
 
   create_table "refinery_blog_categories", force: :cascade do |t|
     t.string   "title"
@@ -229,6 +229,8 @@ ActiveRecord::Schema.define(version: 20150530230473) do
     t.datetime "updated_at"
     t.string   "slug"
     t.string   "full_name"
+    t.string   "twitter"
+    t.string   "photo"
   end
 
   add_index "refinery_users", ["id"], name: "index_refinery_users_on_id"

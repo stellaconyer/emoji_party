@@ -10,7 +10,6 @@
     <header>
       <h2><%= @post.title %></h2>
       <section class='details'>
-          <%= t('by_html', :name_with_link => link_to(@post.author.full_name, refinery.blog_root_path(author: @post.author.username))) if @post.author.present? %>
           <time datetime="<%=l @post.published_at.to_date, :format => :default %>" class='posted_at'>
             <%= l(@post.published_at.to_date, :format => :long) %>
           </time>
@@ -32,6 +31,14 @@
     </header>
 
     <section class="blog_content">
+      <% if @post.author %>
+      <div class="author_info">
+          <%= image_tag(@post.author.photo, class: "author_photo") if @post.author.photo %>
+          <p>
+            <%= link_to @post.author.full_name, refinery.blog_root_path(author: @post.author.username) %><br/>
+            <%= link_to("@#{@post.author.twitter}", "https://www.twitter.com/users/#{@post.author.twitter}") %></p>
+        </div>
+      <% end %>
       <%= @post.body.html_safe %>
     </section>
 

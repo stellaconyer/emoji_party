@@ -45,6 +45,25 @@ time {
       font-size: 16px;
       line-height: 28px;
       margin: 20px 0;
+
+      .author_info {
+        float: left;
+        padding-top: 8px;
+
+        .author_photo {
+          display: block;
+          width: 220px;
+          margin: 0 20px 10px 0;
+        }
+
+        p {
+          margin: 0;
+          line-height: 18px;
+          a {
+            color: $party_pink;
+          }
+        }
+      }
     }
   }
 }
