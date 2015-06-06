@@ -4,6 +4,6 @@
   <% end %>
 </h1>
 
-<div class="subtitle">Cool tagline of what we’re all about</div>
+<div class="subtitle"><%= t('subtitle') %></div>
 
 <%= Refinery::Pages::MenuPresenter.new(refinery_menu_pages, self).to_html %>

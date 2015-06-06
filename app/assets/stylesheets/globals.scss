@@ -63,6 +63,10 @@ a {
   font-family: Symbol;
 }
 
+.tag_header {
+  margin-bottom: 20px;
+}
+
 /* maybe figure out a better way to hide these things */
 #body_content_title, #menu, #side_body, .comment_count {
   display: none;

@@ -4,7 +4,7 @@
     <header>
       <h2><%= link_to post.title, refinery.blog_post_path(post) %></h2>
       <section class='details'>
-        <%= "#{t('by', :name => post.author.full_name)}" if post.author.present? %>
+        <%= t('by_html', :name_with_link => link_to(post.author.full_name, refinery.blog_root_path(author: post.author.username))) if post.author.present? %>
         <% if (categories = post.categories.translated).any? %>
           <aside class='filled_in'>
             <%= t('filled_in', :scope => 'refinery.blog.posts.show') %>

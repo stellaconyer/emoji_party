@@ -1,0 +1,17 @@
+<% content_for :body do %>
+  <h2 class="tag_header"><%= t('showing_posts_tagged', tag: @tag_name) %></h2>
+
+  <% if @posts.any? %>
+    <section id="blog_posts">
+      <%= render :partial => "/refinery/blog/shared/post", :collection => @posts %>
+      <%= will_paginate @posts %>
+    </section>
+  <% else %>
+    <p><%= t('.no_blog_articles_yet') %></p>
+  <% end %>
+<% end %>
+
+<%= render '/refinery/blog/shared/body_content_right' %>
+
+<%= render "/refinery/content_page" %>
+<% content_for :stylesheets, stylesheet_link_tag('refinery/blog/frontend') %>
