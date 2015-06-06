@@ -1,0 +1,10 @@
+<aside class="author_sidebar">
+  <h3><%= t('sidebar_title') %></h3>
+  <% siena = Refinery::User.find 1 %>
+
+  <%= image_tag(siena.photo, class: "author_photo") %>
+  <p class="author_name">
+    <%= link_to siena.full_name, refinery.blog_root_path(author: siena.username) %><br/>
+    <%= link_to("@#{siena.twitter}", "https://www.twitter.com/users/#{siena.twitter}") %>
+  </p>
+</aside>

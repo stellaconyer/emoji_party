@@ -28,3 +28,4 @@ en:
   showing_posts_author: "Posts by %{name}"
   showing_posts_tagged: "Posts tagged with “%{tag}”"
   subtitle: "Cool tagline of what we’re all about"
+  sidebar_title: "emoji party is"

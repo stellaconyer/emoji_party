@@ -67,7 +67,21 @@ a {
   margin-bottom: 20px;
 }
 
+.author_photo {
+  display: block;
+  width: 220px;
+  margin-bottom: 10px;
+}
+
+.author_name {
+  margin: 0;
+  line-height: 18px;
+  a {
+    color: $party_pink;
+  }
+}
+
 /* maybe figure out a better way to hide these things */
-#body_content_title, #menu, #side_body, .comment_count {
+#body_content_title, #menu, .comment_count {
   display: none;
 }
