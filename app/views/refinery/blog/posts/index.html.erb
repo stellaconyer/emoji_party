@@ -2,13 +2,8 @@
   <%= raw @page.content_for(Refinery::Pages.default_parts.first.to_sym) if Refinery::Pages.default_parts.any? %>
 
   <% if params[:author] %>
-    <% if params[:author].is_a? Numeric %>
-      <% author = Refinery::User.find(params[:author]) %>
-    <% else %>
-      <% author = Refinery::User.find_by_username(params[:author]) %>
-    <% end %>
-    <% if author %>
-      <h2 class="tag_header"><%= t('showing_posts_author', name: author.full_name) %></h2>
+    <% if @author %>
+      <h2 class="tag_header"><%= t('showing_posts_author', name: @author.full_name) %></h2>
     <% end %>
   <% end %>
 
