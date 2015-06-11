@@ -3,6 +3,8 @@
   <% authors = [Refinery::User.find_by_username('stella'), Refinery::User.find_by_username('siena')] %>
 
   <% for author in authors %>
-    <%= render "/author_info", author: author %>
+    <div class="author_info">
+      <%= render "/author_info", author: author %>
+    </div>
   <% end %>
 </aside>

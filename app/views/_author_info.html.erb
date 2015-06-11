@@ -1,5 +1,5 @@
 <%= image_tag(author.photo, class: "author_photo") %>
 <p class="author_name">
   <%= link_to author.full_name, refinery.blog_root_path(author: author.username) %><br/>
-  <%= link_to("@#{author.twitter}", "https://www.twitter.com/#{author.twitter}", target: "_blank") %>
+  <%= link_to("@#{author.twitter}", "https://www.twitter.com/#{author.twitter}", target: "_blank", class: "author_twitter_link") %>
 </p>

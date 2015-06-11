@@ -15,10 +15,21 @@ time {
 .author_sidebar {
   margin-left: 20px;
 
+  @media only screen and (max-width : 960px) {
+    margin-left: 0;
+  }
+
   h3 {
     font-size: 20px;
     margin-bottom: 10px;
     color: $party_pink;
+  }
+
+  .author_info {
+    @media only screen and (max-width : 960px) {
+      display: inline-block;
+      margin-right: 10px;
+    }
   }
 }
 
@@ -26,29 +37,39 @@ time {
   background: white;
   padding: 20px;
   margin-bottom: 20px;
+
+  @media only screen and (max-width : 500px) {
+    padding: 10px;
+  }
 }
 
 /*index*/
-#blog_posts .blog_post {
+#blog_posts {
   width: 640px;
 
-  h2 {
-    font-size: 20px;
+  @media only screen and (max-width : 960px) {
+    width: 100%;
   }
 
-  .blog_content {
-    line-height: 24px;
-    margin: 20px 0;
-  }
+  .blog_post {
+    h2 {
+      font-size: 20px;
+    }
 
-  .post_tag {
-    font-size: 12px;
+    .blog_content {
+      line-height: 24px;
+      margin: 20px 0;
+    }
+
+    .post_tag {
+      font-size: 12px;
+    }
   }
 }
 
 /*show*/
 #content_container_blog_post {
-  width: 860px;
+  max-width: 860px;
 
   #blog_post {
     h2 {
