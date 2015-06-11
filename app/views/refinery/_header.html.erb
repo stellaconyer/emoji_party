@@ -4,6 +4,6 @@
   <% end %>
 </h1>
 
-<div class="subtitle"><%= t('subtitle') %></div>
+<div class="emoji" id="header_emoji"><%= raw random_emoji(20) %></div>
 
-<%= Refinery::Pages::MenuPresenter.new(refinery_menu_pages, self).to_html %>
+<div class="subtitle"><%= t('subtitle') %></div>
