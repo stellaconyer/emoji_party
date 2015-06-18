@@ -1,7 +1,28 @@
 @import 'colors';
 
-time {
-  color: $deemphasized;
+.details {
+  .share_tools {
+    display: inline-block;
+    padding-top: 4px;
+    vertical-align: middle;
+    margin-left: 5px;
+    height: 24px;
+
+    .fb-share-button {
+      vertical-align: top;
+      margin-left: 5px;
+    }
+
+    a {
+      color: transparent;
+    }
+  }
+
+  time {
+    color: $deemphasized;
+    display: inline-block;
+    vertical-align: middle;
+  }
 }
 
 .post_tag {

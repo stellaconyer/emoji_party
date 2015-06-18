@@ -1,4 +1,13 @@
 <!-- this is the INDIVIDUAL blog post page (show) -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 <% flash.each do |key, value| %>
  <div id='flash' class="flash flash_<%= key %>">
    <%= value %>
@@ -13,6 +22,14 @@
           <time datetime="<%=l @post.published_at.to_date, :format => :default %>" class='posted_at'>
             <%= l(@post.published_at.to_date, :format => :long) %>
           </time>
+
+          <span class="share_tools">
+            <a href="https://twitter.com/share" class="twitter-share-button" data-via="emoji_party">Tweet</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+            <div class="fb-share-button" data-href="{{request.original_url}}" data-layout="button_count"></div>
+          </span>
+
         <% if @post.source_url.present? %>
           <div class='blog_source'>
             <%= "#{t('source', :scope => 'refinery.blog.posts.show')}: " %>
