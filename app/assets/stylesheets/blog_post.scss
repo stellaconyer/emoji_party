@@ -33,8 +33,9 @@
   width: 100%;
 }
 
-.author_sidebar, #body_content {
-  float: left;
+.author_sidebar, #blog_posts {
+  display: inline-block;
+  vertical-align: top;
 }
 
 .author_sidebar {
@@ -93,12 +94,12 @@
 }
 
 /*show*/
-#content_container_blog_post {
-  @media only screen and (min-width : 960px) {
-    width: 860px;
-  }
-
+#show_blog_post {
   max-width: 860px;
+  width: 100%
+}
+
+#content_container_blog_post {
 
   #blog_post {
     h2 {

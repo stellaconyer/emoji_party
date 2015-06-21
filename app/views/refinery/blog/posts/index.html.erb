@@ -7,17 +7,20 @@
     <% end %>
   <% end %>
 
-  <% if @posts.any? %>
-    <section id="blog_posts">
-      <%= render :partial => "/refinery/blog/shared/post", :collection => @posts %>
-      <%= will_paginate @posts %>
-    </section>
-  <% else %>
-    <p><%= t('.no_blog_articles_yet') %></p>
+  <div class="blog_index_container">
+    <% if @posts.any? %>
+      <section id="blog_posts">
+        <%= render :partial => "/refinery/blog/shared/post", :collection => @posts %>
+        <%= will_paginate @posts %>
+      </section>
+    <% else %>
+      <p><%= t('.no_blog_articles_yet') %></p>
+    <% end %>
+
+  <%= render "/author_sidebar" %>
+
+  </div>
   <% end %>
-<% end %>
 
 <%= render "/refinery/content_page" %>
 <% content_for :stylesheets, stylesheet_link_tag('refinery/blog/frontend') %>
-
-<%= render "/author_sidebar" %>
