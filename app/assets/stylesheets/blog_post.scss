@@ -16,12 +16,21 @@
     a {
       color: transparent;
     }
+
+    @media only screen and (max-width : 500px) {
+      padding-top: 10px;
+      margin-left: 0;
+    }
   }
 
   time {
     color: $deemphasized;
     display: inline-block;
     vertical-align: middle;
+
+    @media only screen and (max-width : 500px) {
+      display: block;
+    }
   }
 }
 
