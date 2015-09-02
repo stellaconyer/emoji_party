@@ -45,6 +45,10 @@ group :development, :test do
   gem 'spring'
 end
 
+group :production do
+  gem 'pg'
+end
+
 
 gem 'refinerycms', git: 'https://github.com/refinery/refinerycms', branch: 'master'
 
