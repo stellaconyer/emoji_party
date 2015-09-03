@@ -1,6 +1,6 @@
 <aside class="author_sidebar">
   <h3><%= t('sidebar_title') %></h3>
-  <% authors = Refinery::User.where(username: ['stella', 'siena']) %>
+  <% authors = Refinery::User.where(username: ['stella', 'siena']).sort %>
 
   <% for author in authors %>
     <div class="author_info">
