@@ -5,7 +5,12 @@ body {
   font-family: "pt-sans-caption";
   color: $default_gray;
   padding: 0;
+  margin: 0;
   font-size: 14px;
+
+  @media only screen and (max-width : 960px) {
+    padding: 0 10px;
+  }
 }
 
 #page_container {
@@ -25,17 +30,21 @@ p {
   padding-top: 10px;
 
   #logo {
-    margin-bottom: 0;
+    margin-bottom: 20px;
     font-size: 64px;
 
     @media only screen and (max-width : 500px) {
       width: 100%;
       display: block;
-      font-size: 36px;
+      font-size: 44px;
 
       .logo-tada {
         font-size: 34px;
       }
+    }
+
+    @media only screen and (max-width : 960px) {
+      margin-bottom: 10px;
     }
 
     .logo-emoji {
@@ -53,10 +62,14 @@ p {
 
   .subtitle {
     font-style: italic;
-    margin-bottom: 20px;
 
     @media only screen and (max-width : 500px) {
       font-size: 12px;
+    }
+
+    @media only screen and (max-width : 960px) {
+      text-align: center;
+      margin-top: 5px;
     }
   }
 
@@ -68,6 +81,7 @@ p {
     @media only screen and (max-width : 960px) {
       width: 100%;
       display: block;
+      text-align: center;
     }
   }
 
@@ -77,11 +91,10 @@ p {
     word-break: break-all;
     overflow: hidden;
     padding-top: 14px;
+    margin-bottom: 20px;
 
-    @media only screen and (max-width : 500px) {
-      margin: 0;
-      width: 90%;
-      padding: 0;     
+    @media only screen and (max-width : 960px) {
+      padding: 0;
     }
   }
 }
@@ -138,6 +151,6 @@ a {
 }
 
 /* maybe figure out a better way to hide these things */
-#body_content_title, #menu, #side_body, .comment_count {
+#body_content_title, #menu, #side_body, .comment_count, .subtitle {
   display: none;
 }
