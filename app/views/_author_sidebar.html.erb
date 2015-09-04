@@ -1,10 +1,11 @@
 <aside class="author_sidebar">
   <h3><%= t('sidebar_title') %></h3>
-  <% authors = Refinery::User.where(username: ['stella', 'siena']).sort %>
+  <% authors = Refinery::User.where(username: ['siena', 'stella']).sort %>
 
   <% for author in authors %>
     <div class="author_info">
       <%= render "/author_info", author: author %>
     </div>
   <% end %>
+  <%= t('follow_emoji_party') %> <%= link_to(t('emoji_party_twitter'), "https://www.twitter.com/emoji_party", target: "_blank") %>
 </aside>
