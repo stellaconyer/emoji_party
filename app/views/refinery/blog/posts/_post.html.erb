@@ -1,4 +1,15 @@
 <!-- this is the INDIVIDUAL blog post page (show) -->
+<% content_for :head do %>
+  <meta property="og:title" content="<%= @post.title %>" />
+  <meta property="og:site_name" content="emoji party"/>
+  <meta property="og:url" content='<%= "http://www.emojiparty.net#{refinery.blog_post_path(@post)}" %>' />
+  <meta property="og:type" content="article" />
+  <meta property="og:description" content="<%= Rails::Html::FullSanitizer.new.sanitize(blog_post_teaser(@post)) %>">
+  <meta property="og:image" content="<%= image_url(@post.author.photo) %>" />
+  <meta property="article:author" content="http://www.emojiparty.net/blog?author=<%= @post.author.username %>" />
+  <meta property="article:publisher" content="http://www.emojiparty.net" />
+<% end %>
+
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -27,7 +38,7 @@
             <a href="https://twitter.com/share" class="twitter-share-button" data-via="emoji_party">Tweet</a>
             <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
-            <div class="fb-share-button" data-href="<%= request.original_url %>" data-layout="button_count"></div>
+            <div class="fb-share-button" data-href="<%= "http://www.emojiparty.net#{refinery.blog_post_path(@post)}" %>" data-layout="button_count"></div>
           </span>
 
         <% if @post.source_url.present? %>
