@@ -1,3 +1,12 @@
+<% content_for :head do %>
+  <meta property="og:title" content="<%= @author ? t('showing_posts_author', name: @author.full_name) : t('emoji_party') %>" />
+  <meta property="og:site_name" content="<%= t('emoji_party') %>"/>
+  <meta property="og:url" content='<%= @author ? "http://www.emojiparty.net#{refinery.blog_root_path(author: @author.username)}" : 'http://www.emojiparty.net' %>' />
+  <meta property="og:type" content="website" />
+  <meta property="og:description" content="<%= t('site_description') %>">
+  <meta name="description" content="<%= t('site_description') %>">
+<% end %>
+
 <% content_for :body do %>
   <%= raw @page.content_for(Refinery::Pages.default_parts.first.to_sym) if Refinery::Pages.default_parts.any? %>
 

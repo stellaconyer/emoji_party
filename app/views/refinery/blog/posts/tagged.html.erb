@@ -1,3 +1,12 @@
+<% content_for :head do %>
+  <meta property="og:title" content="<%= t('showing_posts_tagged', tag: @tag_name) %>" />
+  <meta property="og:site_name" content="<%= t('emoji_party') %>"/>
+  <meta property="og:url" content='<%= "http://www.emojiparty.net#{refinery.blog_tagged_posts_path(@tag.id, @tag_name.parameterize)}" %>' />
+  <meta property="og:type" content="website" />
+  <meta property="og:description" content="<%= t('site_description') %>" />
+  <meta name="description" content="<%= t('site_description') %>" />
+<% end %>
+
 <% content_for :body do %>
   <h2 class="tag_header"><%= t('showing_posts_tagged', tag: @tag_name) %></h2>
 

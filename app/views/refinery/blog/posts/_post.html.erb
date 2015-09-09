@@ -1,10 +1,11 @@
 <!-- this is the INDIVIDUAL blog post page (show) -->
 <% content_for :head do %>
   <meta property="og:title" content="<%= @post.title %>" />
-  <meta property="og:site_name" content="emoji party"/>
+  <meta property="og:site_name" content="<%= t('emoji_party') %>"/>
   <meta property="og:url" content='<%= "http://www.emojiparty.net#{refinery.blog_post_path(@post)}" %>' />
   <meta property="og:type" content="article" />
   <meta property="og:description" content="<%= raw(Rails::Html::FullSanitizer.new.sanitize(blog_post_teaser(@post))) %>">
+  <meta name="description" content="<%= raw(Rails::Html::FullSanitizer.new.sanitize(blog_post_teaser(@post))) %>">
   <meta property="article:author" content="http://www.emojiparty.net/blog?author=<%= @post.author.username %>" />
   <meta property="article:publisher" content="http://www.emojiparty.net" />
 <% end %>
