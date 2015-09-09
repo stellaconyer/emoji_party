@@ -5,7 +5,6 @@
   <meta property="og:url" content='<%= "http://www.emojiparty.net#{refinery.blog_post_path(@post)}" %>' />
   <meta property="og:type" content="article" />
   <meta property="og:description" content="<%= raw(Rails::Html::FullSanitizer.new.sanitize(blog_post_teaser(@post))) %>">
-  <meta property="og:image" content='<%= "http://www.emojiparty.net/assets/#{(@post.author.photo)}" %>' />
   <meta property="article:author" content="http://www.emojiparty.net/blog?author=<%= @post.author.username %>" />
   <meta property="article:publisher" content="http://www.emojiparty.net" />
 <% end %>
