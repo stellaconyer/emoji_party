@@ -28,6 +28,7 @@ en:
   follow_emoji_party: "follow the blog"
   previous_post: "&#171; Previous Post: %{post}"
   next_post: "Next Post: %{post} &#187;"
+  rss_feed: "RSS Feed"
   showing_posts_author: "Posts by %{name}"
   showing_posts_tagged: "Posts tagged with “%{tag}”"
   site_description: "Tech blog by Siena Aguayo and Stella Cotton. Rails, Ruby, Android, Angular, women in tech, technology, software, diversity in tech."
