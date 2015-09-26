@@ -40,7 +40,17 @@ module ApplicationHelper
   def generate_ogimage_content(post)
     doc = Nokogiri::HTML(post.body)
     img_srcs = doc.css('img').map{ |i| i['src'] }
-    img_srcs.count > 0 ? img_srcs[0] : asset_url(post.author)
+    img_srcs.count > 0 ? add_host_if_needed(img_srcs[0]) : asset_url(post.author.photo)
+  end
+
+  private
+
+  def add_host_if_needed(image_src)
+    if image_src[0] == "/"
+        "http://www.emojiparty.net#{img_src}"
+    else
+        image_src
+    end
   end
 end
 
