@@ -1,4 +1,5 @@
 <!-- this is the INDIVIDUAL blog post page (show) -->
+<%= javascript_include_tag "generate_ogimage" %>
 <% content_for :head do %>
   <meta property="og:title" content="<%= @post.title %>" />
   <meta property="og:site_name" content="<%= t('emoji_party') %>"/>
@@ -11,13 +12,15 @@
 <% end %>
 
 <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+<script>
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
 
 <% flash.each do |key, value| %>
  <div id='flash' class="flash flash_<%= key %>">
