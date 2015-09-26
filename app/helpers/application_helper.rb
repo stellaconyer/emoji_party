@@ -47,7 +47,7 @@ module ApplicationHelper
 
   def add_host_if_needed(image_src)
     if image_src[0] == "/"
-        "http://www.emojiparty.net#{img_src}"
+        "http://www.emojiparty.net#{image_src}"
     else
         image_src
     end
