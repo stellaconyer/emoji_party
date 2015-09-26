@@ -36,5 +36,11 @@ module ApplicationHelper
     end
     s
   end
+
+  def generate_ogimage_content(post)
+    doc = Nokogiri::HTML(post.body)
+    img_srcs = doc.css('img').map{ |i| i['src'] }
+    img_srcs.count > 0 ? img_srcs[0] : asset_url(post.author)
+  end
 end
 
