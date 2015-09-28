@@ -81,6 +81,14 @@ Rails.application.configure do
 
   # config.action_controller.asset_host = "d15ru9iu2pqs80.cloudfront.net"
 
+  config.action_controller.asset_host = Proc.new do |source|
+    if source =~ /\/system/
+      nil
+    else
+      "http://d15ru9iu2pqs80.cloudfront.net"
+    end
+  end
+
   # use s3 to store images
   Refinery::Core.config.s3_backend = true
 end
