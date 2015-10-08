@@ -37,9 +37,9 @@ Refinery::Images.configure do |config|
   # This is where in the middleware stack to insert the Dragonfly middleware
   # config.dragonfly_insert_before = "ActionDispatch::Callbacks"
   config.dragonfly_secret = "8bbc91bc75214580ead473d159c7472eb370cae9065f1910"
-  config.dragonfly_url_format = "/:job/:basename.:ext"
+  config.dragonfly_url_format = ":job"
   if Rails.env.production?
-    config.dragonfly_url_host = "http://d15ru9iu2pqs80.cloudfront.net"
+    config.dragonfly_url_host = "http://d15ru9iu2pqs80.cloudfront.net/"
   end
   # config.datastore_root_path = "/Users/StellaCotton/code/emoji_party/public/system/refinery/images"
 
