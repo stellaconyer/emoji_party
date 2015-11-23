@@ -31,7 +31,7 @@
 <div id="content_container_blog_post">
   <article id="blog_post">
     <header>
-      <h2><%= @post.title %></h2>
+      <h1><%= @post.title %></h1>
       <section class='details'>
           <time datetime="<%=l @post.published_at.to_date, :format => :default %>" class='posted_at'>
             <%= l(@post.published_at.to_date, :format => :long) %>
