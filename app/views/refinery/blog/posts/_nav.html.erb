@@ -1,12 +1,12 @@
 <nav id="next_prev_article">
   <% if @post.next.present? -%>
-    <%= link_to  t('next_post', post: h(truncate(@post.next.title))).html_safe,
+    <%= link_to  t('next_post', post: h(@post.next.title)).html_safe,
                 refinery.blog_post_path(@post.next),
                 :class => 'next' %>
   <% end -%>
 
   <% if @post.prev.present? -%>
-    <%= link_to t('previous_post', post: h(truncate(@post.prev.title))).html_safe, 
+    <%= link_to t('previous_post', post: h(@post.prev.title)).html_safe,
                 refinery.blog_post_path(@post.prev),
                 :class => 'prev' %>
   <% end -%>

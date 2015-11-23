@@ -137,3 +137,16 @@
 #comments {
   display: none;
 }
+
+#next_prev_article a {
+  width: 33%;
+
+  &.prev {
+    float: left;
+  }
+
+  &.next {
+    float: right;
+    text-align: right;
+  }
+}
