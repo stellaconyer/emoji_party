@@ -10,7 +10,7 @@
 
   <% for talk in @talks %>
     <h2><%= talk.title %></h2>
-    <p><%= talk.description %> <%= link_to(I18n.t('talks.slides_link'), talk.slides_link) %></p>
+    <p><%= talk.description %> <%= link_to(I18n.t('talks.slides_link'), talk.slides_link, target: "_blank") %></p>
 
     <% if appearances = talk.appearances %>
       <h3><%= I18n.t('talks.appearances') %></h3>
@@ -18,10 +18,10 @@
         <% for appearance in appearances %>
           <li>
             <%= appearance.date.to_date.to_formatted_s(:long_ordinal) %>, 
-            <%= link_to(appearance.event_name, appearance.event_link) %> 
+            <%= link_to(appearance.event_name, appearance.event_link, target: "_blank") %> 
           
           <% if video = appearance.video_link %>
-            (<%= link_to(I18n.t('talks.video'), video) %>)
+            (<%= link_to(I18n.t('talks.video'), video, target: "_blank") %>)
           <% end %>
 
           </li>
