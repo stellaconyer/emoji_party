@@ -1,0 +1,39 @@
+<section id="talks">
+
+  <div id="author_info">
+    <%= render "/author_info", author: @user %>
+  </div>
+
+  <div class="talks_main">
+
+  <h1><%= I18n.t('talks.headline', name: @user.full_name) %></h1>
+
+  <% for talk in @talks %>
+    <h2><%= talk.title %></h2>
+    <p><%= talk.description %> <%= link_to(I18n.t('talks.slides_link'), talk.slides_link) %></p>
+
+    <% if appearances = talk.appearances %>
+      <h3><%= I18n.t('talks.appearances') %></h3>
+      <ul>
+        <% for appearance in appearances %>
+          <li>
+            <%= appearance.date.to_date.to_formatted_s(:long_ordinal) %>, 
+            <%= link_to(appearance.event_name, appearance.event_link) %> 
+          
+          <% if video = appearance.video_link %>
+            (<%= link_to(I18n.t('talks.video'), video) %>)
+          <% end %>
+
+          </li>
+        <% end %>
+      </ul>
+    <% end %>
+
+  <% end %>
+
+  <% if @talks.count == 0 %>
+    <h2><%= I18n.t('talks.no_talks') %></h2>
+  <% end %>
+
+  </div>
+</section>

@@ -11,7 +11,17 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150605194614) do
+ActiveRecord::Schema.define(version: 20160129231021) do
+
+  create_table "appearances", force: :cascade do |t|
+    t.datetime "date",       null: false
+    t.string   "event_name", null: false
+    t.string   "event_link"
+    t.string   "video_link"
+    t.integer  "talk_id"
+  end
+
+  add_index "appearances", ["talk_id"], name: "index_appearances_on_talk_id"
 
   create_table "refinery_blog_categories", force: :cascade do |t|
     t.string   "title"
@@ -266,5 +276,14 @@ ActiveRecord::Schema.define(version: 20150605194614) do
   end
 
   add_index "tags", ["name"], name: "index_tags_on_name", unique: true
+
+  create_table "talks", force: :cascade do |t|
+    t.integer "refinery_user_id", null: false
+    t.string  "title",            null: false
+    t.string  "description"
+    t.string  "slides_link"
+  end
+
+  add_index "talks", ["refinery_user_id"], name: "index_talks_on_refinery_user_id"
 
 end

@@ -5,6 +5,9 @@ Rails.application.routes.draw do
   # configuration option `mounted_path` to something different in config/initializers/refinery/core.rb
   #
   root :to => 'refinery/blog/posts#index'
+  
+  # us/siena/talks
+  resources :talks, :path => 'us/:id/talks', to: 'talks#index', only: :index
 
   # We ask that you don't use the :as option here, as Refinery relies on it being the default of "refinery"
   mount Refinery::Core::Engine, at: Refinery::Core.mounted_path

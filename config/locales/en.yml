@@ -34,3 +34,9 @@ en:
   site_description: "Tech blog by Siena Aguayo and Stella Cotton. Rails, Ruby, Android, Angular, women in tech, technology, software, diversity in tech."
   subtitle: "Cool tagline of what we’re all about"
   sidebar_title: "emoji party is"
+  talks:
+    headline: "Talks by %{name}"
+    slides_link: "View slides"
+    appearances: "Appearances"
+    video: "Video"
+    no_talks: "Stay tuned!"
