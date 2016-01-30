@@ -148,8 +148,15 @@ a {
 }
 
 #talks {
+  h1 {
+    margin-bottom: 20px;
+  }
   #author_info {
     float: right;
+  }
+
+  .talk {
+    margin-bottom: 30px;
   }
 }
 
