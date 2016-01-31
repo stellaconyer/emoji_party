@@ -1,4 +1,4 @@
-<aside class="author_sidebar">
+<aside class="author_sidebar block block--inline">
   <h3><%= t('sidebar_title') %></h3>
   <% authors = Refinery::User.where(username: ['siena', 'stella']).sort { |a, b| a.username <=> b.username } %>
 

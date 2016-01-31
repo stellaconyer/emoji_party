@@ -11,7 +11,7 @@
   <h2 class="tag_header"><%= t('showing_posts_tagged', tag: @tag_name) %></h2>
 
   <% if @posts.any? %>
-    <section id="blog_posts">
+    <section id="blog_posts" class="block--inline">
       <%= render :partial => "/refinery/blog/shared/post", :collection => @posts %>
       <%= will_paginate @posts %>
     </section>

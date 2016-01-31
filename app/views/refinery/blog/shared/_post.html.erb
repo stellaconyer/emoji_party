@@ -1,6 +1,6 @@
 <!-- this is the blog post partial on the BLOG INDEX -->
 <% if post.live? %>
-  <article class="blog_post" id="<%= dom_id(post) %>">
+  <article class="blog_post block" id="<%= dom_id(post) %>">
     <header>
       <h2><%= link_to post.title, refinery.blog_post_path(post) %></h2>
       <section class='details'>

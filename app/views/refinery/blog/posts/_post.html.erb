@@ -29,7 +29,7 @@
 <% end %>
 
 <div id="content_container_blog_post">
-  <article id="blog_post">
+  <article id="blog_post" class="block">
     <header>
       <h1><%= @post.title %></h1>
       <section class='details'>
@@ -63,7 +63,7 @@
 
     <section class="blog_content">
       <% if @post.author %>
-      <div class="author_info">
+      <div class="author_info author_info--floatLeft">
         <%= render "/author_info", author: @post.author %>
       </div>
       <% end %>
