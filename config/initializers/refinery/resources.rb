@@ -25,6 +25,10 @@ Refinery::Resources.configure do |config|
   # config.dragonfly_url_host = ""
   # config.datastore_root_path = "/Users/StellaCotton/code/emoji_party/public/system/refinery/resources"
   # config.content_disposition = :attachment
+  config.dragonfly_url_format = "/resources/:job/:basename.:ext"
+  if Rails.env.production?
+    config.dragonfly_url_host = "http://www.emojiparty.net"
+  end
 
   # Configure Dragonfly custom storage backend
   # The custom_backend setting by default defers to the core setting for this but can be set just for resources.

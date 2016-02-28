@@ -59,6 +59,7 @@ Rails.application.configure do
 
   # Enable serving of images, stylesheets, and JavaScripts from an asset server.
   # config.action_controller.asset_host = 'http://assets.example.com'
+  config.action_controller.asset_host = "http://d15ru9iu2pqs80.cloudfront.net"
 
   # Ignore bad email addresses and do not raise email delivery errors.
   # Set this to true and configure the email server for immediate delivery to raise delivery errors.
@@ -78,16 +79,6 @@ Rails.application.configure do
 
   # Do not dump schema after migrations.
   config.active_record.dump_schema_after_migration = false
-
-  # config.action_controller.asset_host = "d15ru9iu2pqs80.cloudfront.net"
-
-  config.action_controller.asset_host = Proc.new do |source|
-    if source =~ /\/system/
-      nil
-    else
-      "http://d15ru9iu2pqs80.cloudfront.net"
-    end
-  end
 
   # use s3 to store images
   Refinery::Core.config.s3_backend = true
