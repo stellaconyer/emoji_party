@@ -5,7 +5,5 @@
 
 class Talk < ActiveRecord::Base
   belongs_to :refinery_user, class_name: "Refinery::User"
-  has_many :appearances
-
-  
+  has_many :appearances, dependent: :destroy
 end

@@ -19,7 +19,8 @@
           <% for appearance in appearances %>
             <li>
               <%= appearance.date.to_date.to_formatted_s(:long_ordinal) %>,
-              <%= link_to(appearance.event_name, appearance.event_link, target: "_blank") %>
+              <%= link_to(appearance.event_name, appearance.event_link, target: "_blank") %>,
+              <%= appearance.event_location %>
             
             <% if video = appearance.video_link %>
               (<%= link_to(I18n.t('talks.video'), video, target: "_blank") %>)

@@ -11,14 +11,15 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160129231021) do
+ActiveRecord::Schema.define(version: 20160506175335) do
 
   create_table "appearances", force: :cascade do |t|
-    t.datetime "date",       null: false
-    t.string   "event_name", null: false
+    t.datetime "date",           null: false
+    t.string   "event_name",     null: false
     t.string   "event_link"
     t.string   "video_link"
     t.integer  "talk_id"
+    t.string   "event_location"
   end
 
   add_index "appearances", ["talk_id"], name: "index_appearances_on_talk_id"
