@@ -59,3 +59,26 @@ Appearance.create!(
   video_link: "https://www.youtube.com/watch?v=e4RCTgZq2Cs",
   date: Date.new(2016,2,19)
   )
+
+refactoring_talk = Talk.create!(
+  refinery_user: siena,
+  title: "Don't reset --hard: Strategies for Tackling Large Refactors",
+  description: "How many times have you started an ambitious refactor only to get lost and end up doing a git reset --hard? Android libraries are updated constantly, sometimes with breaking changes, and it can be tough to keep up. Maybe you want to try several new technologies at once as part of your refactor. This talk will teach you some techniques for refactoring your code in a way that makes you not get so overwhelmed that you have to start over.",
+  slides_link: "https://speakerdeck.com/sienatime/dont-reset-hard-strategies-for-tackling-large-refactors"
+  )
+
+Appearance.create!(
+  talk: refactoring_talk,
+  event_name: "DroidKaigi",
+  event_location: "Tokyo, Japan",
+  event_link: "https://droidkaigi.github.io/",
+  date: Date.new(2017,3,9)
+  )
+
+Appearance.create!(
+  talk: refactoring_talk,
+  event_name: "Droidcon Boston",
+  event_location: "Boston, MA, United States",
+  event_link: "http://www.droidcon-boston.com/",
+  date: Date.new(2017,4,11)
+  )
