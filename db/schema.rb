@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160506175335) do
+ActiveRecord::Schema.define(version: 20170805174932) do
 
   create_table "appearances", force: :cascade do |t|
     t.datetime "date",           null: false
@@ -20,6 +20,8 @@ ActiveRecord::Schema.define(version: 20160506175335) do
     t.string   "video_link"
     t.integer  "talk_id"
     t.string   "event_location"
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   add_index "appearances", ["talk_id"], name: "index_appearances_on_talk_id"
@@ -279,10 +281,12 @@ ActiveRecord::Schema.define(version: 20160506175335) do
   add_index "tags", ["name"], name: "index_tags_on_name", unique: true
 
   create_table "talks", force: :cascade do |t|
-    t.integer "refinery_user_id", null: false
-    t.string  "title",            null: false
-    t.string  "description"
-    t.string  "slides_link"
+    t.integer  "refinery_user_id", null: false
+    t.string   "title",            null: false
+    t.string   "description"
+    t.string   "slides_link"
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   add_index "talks", ["refinery_user_id"], name: "index_talks_on_refinery_user_id"
