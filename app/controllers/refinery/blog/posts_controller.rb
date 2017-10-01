@@ -20,7 +20,9 @@ module Refinery
         end
 
         if @author
-          @posts = @posts.where(user_id: @author.id)
+          page = params[:page] || 1
+          # borrowed from refinerycms-blog-d84600385bcc/app/helpers/refinery/blog/controller_helper.rb
+          @posts = Refinery::Blog::Post.live.includes(:comments, :categories).with_globalize.newest_first.page(page).where(user_id: @author.id)
         end
 
         respond_with (@posts) do |format|
