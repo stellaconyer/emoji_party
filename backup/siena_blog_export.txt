@@ -1,0 +1,507 @@
+Title: Google I/O 2015 Sketchnote Round-up
+Published At: 2015-09-07 23:37:00 UTC
+Body: <p>This year was my first <a href="https://events.google.com/io2015/" title="https://events.google.com/io2015/" target="_blank">Google I/O</a>, and it was truly an awesome experience. Thanks to Google's <a href="https://www.womentechmakers.com/" title="https://www.womentechmakers.com/" target="_blank">Women Techmakers</a>, I had been put in touch with a bunch of kick-ass technical women prior to the actual conference itself and it created a wonderful sense of community in what otherwise would have felt like one more endless sea of dark hoodies.&#160;</p>
+<p>Due in part to some inspiration from fellow Android devs and Women Techmakers <a href="http://coreylatislaw.com/" title="http://coreylatislaw.com/" target="_blank">Corey Latislaw</a> and <a href="http://blog.sqisland.com/" title="http://blog.sqisland.com/" target="_blank">Chiu-Ki Chan</a>, I decided to try my hand at sketchnoting. If you're not familiar with sketchnoting, it is the practice of illustrating notes instead of just writing them down linearly. It's a creative process and everyone's sketchnotes are unique and impart their own personal flavor and style. Here for your perusal are my first conference sketchnotes, presented with minimal editing.
+</p>
+<p><img src="/images/W1siZiIsIjIwMTUvMDkvMjgvMDAvMzgvNDkvNTI4NjY5NDMtYTkzYy00M2UwLTk1MWMtNTJlM2JhYTIxMmQ3L2lvMTVfa2V5bm90ZS5wbmciXV0/io15_keynote.png?sha=20c8f847b1ba2067" title="Google I/O 2015 Keynote" alt="Google I/O 2015 Keynote" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>What's New in Android Dev Tools by Xavier Ducrohet (<a href="https://www.twitter.com/droidxav" title="https://www.twitter.com/droidxav" target="_blank">@droidxav</a>), Tor Norbye (<a href="https://www.twitter.com/tornorbye" title="https://www.twitter.com/tornorbye" target="_blank">@tornorbye</a>), and Jamal Eason</p>
+<p><img src="/images/W1siZiIsIjIwMTUvMDkvMjgvMDAvMzgvNDIvMTY0Y2QwMmQtNTlhZC00M2ZhLTk5ZGUtYWI3ZDYxZmJlNmNlL2lvMTVfbmV3ZGV2dG9vbHMucG5nIl1d/io15_newdevtools.png?sha=d97e7f2d90546a6b" title="Google I/O 2015 What's New In Android Dev Tools" alt="Google I/O 2015 What's New In Android Dev Tools" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Material Now by Matias Duarte (<a href="https://www.twitter.com/matiasduarte" title="https://www.twitter.com/matiasduarte" target="_blank">@matiasduarte</a>)</p>
+<p><img src="/images/W1siZiIsIjIwMTUvMDkvMjgvMDAvMzgvMDkvZTc0ZmRhNDItOWFjMi00OTFlLWI5YzAtNDE1ZjFmNDk0YTQ3L2lvMTVfbWF0ZXJpYWxub3cucG5nIl1d/io15_materialnow.png?sha=258bff6de6cd25c6" title="Google I/O 2015 Material Now" alt="Google I/O 2015 Material Now" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Fireside Chat with the Google Mobile Services Team featuring Jonathan Beri (<a href="https://twitter.com/beriberikix" title="https://twitter.com/beriberikix" target="_blank">@beriberikix</a>), Benoit St-Pierre (<a href="https://twitter.com/benoitstpierre" title="https://twitter.com/benoitstpierre" target="_blank">@benoitstpierre</a>), Subir Jhanb, and Jeff Hamilton</p>
+<p><img src="/images/W1siZiIsIjIwMTUvMDkvMjgvMDAvMzgvMzYvN2FlNDkyNmUtNDlhZS00MGZhLWI1ZDUtNTkyNzMyMTA5OTkwL2lvMTVfbW9iaWxlc2VydmljZXMucG5nIl1d/io15_mobileservices.png?sha=2d31041fc4fef567" title="Google I/O 2015 Fireside Chat with the Mobile Services Team" alt="Google I/O 2015 Fireside Chat with the Mobile Services Team" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Developing Extraordinary Apps with Firebase by James Tamplin (<a href="https://twitter.com/JamesTamplin" title="https://twitter.com/JamesTamplin" target="_blank">@JamesTamplin</a>)</p>
+<p><img src="/images/W1siZiIsIjIwMTUvMDkvMjgvMDAvMzgvMTYvMGUzODc5YjItYjBjMy00NjRkLTkxYTgtZjM4MjJmNjk2ZTcxL2lvMTVfZmlyZWJhc2UucG5nIl1d/io15_firebase.png?sha=605ee9b0f757ed3b" title="Google I/O 2015 Firebase" alt="Google I/O 2015 Firebase" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Improve Your Android App's Accessibility featuring Casey Burkhardt (<a href="https://twitter.com/CaseyBurkhardt" title="https://twitter.com/CaseyBurkhardt" target="_blank">@CaseyBurkhardt</a>), Eve Andersson (<a href="https://twitter.com/eveandersson" title="https://twitter.com/eveandersson" target="_blank">@eveandersson</a>), Hugh Oh, Phil Weaver, and Mark Riccobono (<a href="https://www.twitter.com/Riccobono" title="https://www.twitter.com/Riccobono" target="_blank">@Riccobono</a>)</p>
+<p><img src="/images/W1siZiIsIjIwMTUvMDkvMjgvMDAvMzgvMDIvZGQ0YThiZmUtNWE1MS00ZTYyLTlmODAtOTIzOGNlZDhkNDZjL2lvMTVfYWNjZXNzaWJpbGl0eS5wbmciXV0/io15_accessibility.png?sha=e69ce6b224efed23" title="Google I/O 2015 Improve Your Android App's Accessibility" alt="Google I/O 2015 Improve Your Android App's Accessibility" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Android Wear: Your App and the Always-On Screen by Brett Lider (<a href="https://twitter.com/bl" title="https://twitter.com/bl" target="_blank">@bl</a>) and David Singleton (<a href="https://twitter.com/dps" title="https://twitter.com/dps" target="_blank">@dps</a>)</p>
+<p><img src="/images/W1siZiIsIjIwMTUvMDkvMjgvMDAvMzcvNDUvZDk0MjRhMTEtNjkwZC00MzZkLWI3MzktMTNlNmYzMWQyYjVmL2lvMTVfYW5kcm9pZHdlYXIucG5nIl1d/io15_androidwear.png?sha=1c8dc7bde5cf92b3" title="Google I/O 2015 Android Wear: Your App and the Always-On Screen" alt="Google I/O 2015 Android Wear: Your App and the Always-On Screen" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+
+<hr />
+<p>I hope you enjoyed my first ever sketchnotes! Stay tuned for more.</p>
+Tags: material design, accessibility, google i/o, android wear, google, sketchnotes, android
+
+-----------------------------------------
+
+Title: Droidcon NYC 2015 Sketchnote Round-up
+Published At: 2015-09-26 11:32:00 UTC
+Body: <p>I had the pleasure once again this year to attend <a href="http://droidcon.nyc/2015/" title="http://droidcon.nyc/2015/" target="_blank">Droidcon NYC</a>, a conference for Android developers and designers that is part of the larger, international network of Android conferences, <a href="http://droidcon.com/" title="http://droidcon.com/" target="_blank">Droidcon</a>. Last year's New York conference was my very first Droidcon. I barely knew anything about Android, and was proud enough that I recognized why it was a big deal that <a href="http://jakewharton.com/" title="http://jakewharton.com/" target="_blank">Jake Wharton</a> was speaking. This year, I am way more involved in the community and gave my own talk on localization and internationalization, so it's pretty cool to see how far I've come in such a short amount of time. After achieving mild success <a href="http://www.emojiparty.net/blog/posts/google-i-o-2015-sketchnote-round-up" title="http://www.emojiparty.net/blog/posts/google-i-o-2015-sketchnote-round-up">sketchnoting at Google I/O</a> a few months before, I was pumped to sketchnote my way through another conference. My sketchnotes are below, with some touch-ups. Enjoy.</p>
+<hr />
+<p>Keynote: Android Is the World Phone by Corey Latislaw (<a href="https://www.twitter.com/corey_latislaw" title="https://www.twitter.com/corey_latislaw" target="_blank">@corey_latislaw</a>)</p>
+<p><img src="/images/W1siZiIsIjIwMTUvMDkvMjgvMDAvMzUvNTkvNzRlOTBkMzctNDUxZC00YzVkLTg1MTEtNjA0Mzg2Zjg3YWY0L2Ryb2lkY29ubnljMjAxNS1jb3JleWxhdGlzbGF3LWFuZHJvaWR3b3JsZHBob25lLnBuZyJdXQ/droidconnyc2015-coreylatislaw-androidworldphone.png?sha=ebe878c3ce6b2674" title="Android Is the World Phone" alt="Android Is the World Phone" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Advanced Espresso by Chiu-Ki Chan (<a href="https://www.twitter.com/chiuki" title="https://www.twitter.com/chiuki" target="_blank">@chiuki</a>)</p>
+<p><img src="/images/W1siZiIsIjIwMTUvMDkvMjgvMDAvMzYvMjcvMTNhYjUxNjYtZTRhZC00ZDM3LTk3M2YtNjA4MGM2YzdjZGU4L2Ryb2lkY29ubnljMjAxNS1jaGl1LWtpY2hhbi1hZHZhbmNlZGVzcHJlc3NvLnBuZyJdXQ/droidconnyc2015-chiu-kichan-advancedespresso.png?sha=5a9d93a6e3e9e6e5" title="Advanced Espresso" alt="Advanced Espresso" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>A Pirate's Guide to Android by Lisa Neigut (<a href="https://www.twitter.com/niftynei" title="https://www.twitter.com/niftynei" target="_blank">@niftynei</a>)</p>
+<p><img src="/images/W1siZiIsIjIwMTUvMDkvMjgvMDAvMzUvMzAvNmRmZDdjYzEtZmI0My00OWIxLTlkZGQtNzNiMzMzYzhmOWU0L2Ryb2lkY29ubnljMjAxNS1saXNhbmVpZ3V0LXBpcmF0ZXNndWlkZWxpbmVzLnBuZyJdXQ/droidconnyc2015-lisaneigut-piratesguidelines.png?sha=a64071c29d4535f3" title="A Pirate's Guide to Android" alt="A Pirate's Guide to Android" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Realm: Building a Mobile DB by Christian Melchior (<a href="https://www.twitter.com/cmelchior" title="https://www.twitter.com/cmelchior" target="_blank">@cmelchior</a>)</p>
+<p><img src="/images/W1siZiIsIjIwMTUvMDkvMjgvMDAvMzYvMTkvMzgxMGY4MmYtNzhlOC00NTJjLTk3MzctNGZiYzNhNGM1ZTNjL2Ryb2lkY29ubnljMjAxNS1jaHJpc3RpYW5tZWxjaGlvci1yZWFsbS5wbmciXV0/droidconnyc2015-christianmelchior-realm.png?sha=b43a0fff317fb4c1" title="Realm: Building a Mobile DB" alt="Realm: Building a Mobile DB" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Android Accessibility 101 by Haley Rose Smith (<a href="https://www.twitter.com/haley" title="https://www.twitter.com/haley" target="_blank">@haley</a>)</p>
+<p><img src="/images/W1siZiIsIjIwMTUvMDkvMjgvMDAvMzUvNTIvYTdhNjlmYjItZWU1OS00MzEyLWE1NTktNjBkZWNlZGViOWU1L2Ryb2lkY29ubnljMjAxNS1oYWxleXJvc2VzbWl0aC1hY2Nlc3NpYmlsaXR5LnBuZyJdXQ/droidconnyc2015-haleyrosesmith-accessibility.png?sha=d5fe8731cc5b3d3a" title="Android Accessibility 101" alt="Android Accessibility 101" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>What's New in Android UI Engineering by Roman Nurik (<a href="https://www.twitter.com/romannurik" title="https://www.twitter.com/romannurik" target="_blank">@romannurik</a>), Nick Butcher (<a href="https://www.twitter.com/crafty" title="https://www.twitter.com/crafty" target="_blank">@crafty</a>), and Chris Banes (<a href="https://www.twitter.com/chrisbanes" title="https://www.twitter.com/chrisbanes" target="_blank">@chrisbanes</a>)</p>
+<p><img src="/images/W1siZiIsIjIwMTUvMDkvMjgvMDAvMzYvNTYvMGY3MGM4NjYtNDExMC00MTUzLTgyNmMtMTIzMWVkMjY3ZmIxL2Ryb2lkY29ubnljMjAxNS1hbmRyb2lkLXVpLWVuZ2luZWVyaW5nLnBuZyJdXQ/droidconnyc2015-android-ui-engineering.png?sha=3125a043c82a9c67" title="What's New in Android UI Engineering" alt="What's New in Android UI Engineering" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Game Basics: Animations with SurfaceView by Ana Redmond (<a href="https://www.twitter.com/anaredmond" title="https://www.twitter.com/anaredmond" target="_blank">@anaredmond</a>)</p>
+<p><img src="/images/W1siZiIsIjIwMTUvMDkvMjgvMDAvMzcvMDcvYjIwNjA5YWQtMTExNy00YjY2LTgxY2ItMTg1N2FjMGQ3ZmRhL2Ryb2lkY29ubnljMjAxNS1hbmFyZWRtb25kLWFuaW1hdGlvbnNzdXJmYWNldmlldy5wbmciXV0/droidconnyc2015-anaredmond-animationssurfaceview.png?sha=c924ac48768a4331" title="Game Basics: Animations with SurfaceView" alt="Game Basics: Animations with SurfaceView" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Android Metaprogramming by Audrey Troutt (<a href="https://www.twitter.com/auditty" title="https://www.twitter.com/auditty" target="_blank">@auditty</a>)</p>
+<p><img src="/images/W1siZiIsIjIwMTUvMDkvMjgvMDAvMzYvMzYvNzA2NjNjODgtMTk0NS00MzMxLTgxOGQtMTdhMWU4MjM5OTdiL2Ryb2lkY29ubnljMjAxNS1hdWRyZXl0cm91dHQtbWV0YXByb2dyYW1taW5nLnBuZyJdXQ/droidconnyc2015-audreytroutt-metaprogramming.png?sha=ba9c0fad0feb200a" title="Android Metaprogramming" alt="Android Metaprogramming" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>I'm planning on doing another post soon about my sketchnoting process, so look forward to that!</p>
+Tags: accessibility, realm, espresso, droidcon nyc 2015, sketchnotes, android
+
+-----------------------------------------
+
+Title: Video: Fearless Internationalization and Localization Across the Nations
+Published At: 2015-09-14 22:47:00 UTC
+Body: <p><iframe style="width: 100%; max-width: 560px; height: 320px" src="https://www.youtube.com/embed/Z51wN9wCao0" frameborder="0"></iframe>
+</p>
+<p>The video for my talk at <a href="droidcon.nyc/2015/" title="droidcon.nyc/2015/" target="_blank">Droidcon NYC 2015</a> is up! This is a fun one. If you'd like to follow along at home, the slides are up at <a href="http://www.slideshare.net/SienaAguayo/fearless-internationalization-and-localization-across-the-nations" title="http://www.slideshare.net/SienaAguayo/fearless-internationalization-and-localization-across-the-nations" target="_blank">Slideshare</a>.</p>
+<p><span style="background-color: transparent;">Be sure to check out the rest of the talks at </span>
+<a href="https://www.youtube.com/playlist?list=PLnVy79PaFHMUqqvwbjyKJZv1N8rzHOCBi" title="https://www.youtube.com/playlist?list=PLnVy79PaFHMUqqvwbjyKJZv1N8rzHOCBi" target="_blank" style="background-color: transparent;">Touchlab's Youtube channel</a>
+<span style="background-color: transparent;">.</span>
+</p>
+<p>I will be giving a shortened version of this talk at <a href="http://www.meetup.com/bayareaandroid/events/225216144/" title="http://www.meetup.com/bayareaandroid/events/225216144/" target="_blank">next week's Bay Area Android Developer Group Meetup</a>!</p>
+<p>Go out and be fearless!</p>
+Tags: videos, i18n, droidcon nyc 2015, public speaking, android
+
+-----------------------------------------
+
+Title: Pokemon, Knitting, and Public Speaking: 2015 in Retrospect
+Published At: 2015-11-16 09:41:00 UTC
+Body: <p>At the beginning of this year, I made and actually kept several New Year's resolutions for probably the first time ever: knit a sweater, catch all the Pokémon, and submit to speak at a conference on a technical topic (and hopefully get accepted). I accomplished all these things and more, and as part of <a href="http://tinyletter.com/techspeak" title="http://tinyletter.com/techspeak" target="_blank">Technically Speaking</a>'s call-to-action to reflect on and set new goals for 2016, I present to you my year in review.</p>
+<p>I got to work right away on the Pokémon: I owned six games and was already halfway through once I added them all up. By mid February, I had accomplished the once impossible-sounding goal of having owned 718 Pokémon (some event Pokémon were on loan from my friend Phil, and I never got my hands on an <a href="http://bulbapedia.bulbagarden.net/wiki/Arceus_(Pok%C3%A9mon)" title="http://bulbapedia.bulbagarden.net/wiki/Arceus_(Pok%C3%A9mon)" target="_blank">Arceus</a>, but you don't actually need all event Pokémon to be rewarded for completing the Pokédex... but I digress). &#160;2015 was off to great start!</p>
+<div style="margin: 0 auto; max-width: 500px;min-width: 220px">
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Today I became a <a href="https://twitter.com/Pokemon">@Pokemon</a> Master! My dream since I was 10! <a href="https://twitter.com/hashtag/GottaCatchEmAll?src=hash">#GottaCatchEmAll</a> <a href="https://twitter.com/hashtag/Pokedex?src=hash">#Pokedex</a> <a href="http://t.co/lQ33wcIqh8">pic.twitter.com/lQ33wcIqh8</a>
+</p>— Siena (@sienatime) <a href="https://twitter.com/sienatime/status/567428768650633216">February 16, 2015</a>
+</blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+<p>On my Poké-journey, I used a lot of subpar Android apps to look up information (especially offline) about where and how I could catch a particular Pokémon. I had spent six months in 2014 developing <a href="https://play.google.com/store/apps/details?id=com.indiegogo.android" title="https://play.google.com/store/apps/details?id=com.indiegogo.android" target="_blank">Indiegogo for Android</a> and was eager to keep my skills sharp since I had moved on to our web stack, so I decided to try my hand at building my own Pokédex app for Android. There exists a SQLite database of tons of <a href="https://github.com/veekun/pokedex" title="https://github.com/veekun/pokedex" target="_blank">Poké-data on Github</a>, but working with the built-in Android SQL library proved less than awesome, especially after getting used to ActiveRecord in Rails. One of my Android teammates suggested I look into <a href="https://realm.io/" title="https://realm.io/">Realm</a> as a data store alternative, and I fell in love: Realm was easy to use, fast, and cutting-edge, so I felt like I was really in the know.</p>
+<p>It was around this time I started pondering what I wanted to submit to <a href="http://www.droidcon.ca" title="http://www.droidcon.ca" target="_blank">Droidcon Montreal</a>, and after spending some time with Realm I thought it would be really cool to submit a talk about my experiences using it compared to SQLite. Wouldn't you know it, my talk was accepted!</p>
+<div style="margin: 0 auto; max-width: 500px;min-width: 220px">
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">I'm extremely excited to announce I will be speaking at <a href="https://twitter.com/DroidconMTL">@DroidconMTL</a> next month about <a href="https://twitter.com/realm">@realm</a> ! This is my first tech conf speaking gig! YAY</p>— Siena (@sienatime) <a href="https://twitter.com/sienatime/status/575779800901529601">March 11, 2015</a>
+</blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+<p>Droidcon Montreal was a great first speaking experience. The organizers were super kind and enthusiastic, and I'm very grateful to them for taking a chance on me, a first-time speaker and dark horse in the Android community. Even though my talk was the very last one of the conference, it was well attended and followed by some great questions afterwards, something I had been quite nervous about getting through. I had presented the talk at work to mostly non-Android developers, so I was apprehensive about getting up in front of a crowd of professionals who would be able to scrutinize my talk more closely. But I was well prepared and felt awesome afterwards, and it opened up some great doors to me professionally.</p>
+<p>The conference was in early April, and shortly after returning from Canada, I finished knitting my very first sweater:</p>
+<div style="margin: 0 auto; max-width: 500px;min-width: 220px">
+<blockquote class="instagram-media" data-instgrm-version="5" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div>
+</div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/1jyiPUHXiv/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">I finished knitting my first sweater! #selfiestick #knitting</a>
+</p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by @sienatime_ on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;">Apr 16, 2015 at 7:25pm PDT</time>
+</p>
+</div>
+</blockquote>
+<script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
+</div>
+<p>I was on fire! It was around this same time that I was contacted by <a href="https://www.twitter.com/chiuki" title="https://www.twitter.com/chiuki" target="_blank">Chiu-Ki</a> about formulating a plan for a "takeover"of <a href="http://www.droidcon.nyc/2015/" title="http://www.droidcon.nyc/2015/" target="_blank">Droidcon NYC 2015</a> by women speakers (see <a href="http://blog.sqisland.com/2015/08/droidcon-nyc-22-percent-female-speakers.html" title="http://blog.sqisland.com/2015/08/droidcon-nyc-22-percent-female-speakers.html" target="_blank">Chiu-Ki's blog post</a> for more details on that endeavor). I had attended Droidcon NYC 2014 right as I was beginning to develop for Android and it had been an amazing firehose of information, so I was eager to go back and be on the other side of the podium. We had a couple group brainstorming sessions and a topic came up that people wanted to know more about: localization and internationalization. This happens to be a pet topic of mine, since I studied Japanese in college and have a lot of opinions on monolingual American culture. I had also shipped the Indiegogo Android app in English, Spanish, French, and German, and found the experience to be not quite as daunting as some might have thought it would be. I submitted my Realm talk and a new talk entitled <a href="http://emojiparty.net/blog/posts/video-fearless-internationalization-and-localization-across-the-nations" title="http://emojiparty.net/blog/posts/video-fearless-internationalization-and-localization-across-the-nations">"Fearless Internationalization and Localization Across the Nations"</a> and my new talk was accepted!</p>
+<div style="margin: 0 auto; max-width: 500px;min-width: 220px">
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Super happy to announce I'll be speaking at <a href="https://twitter.com/DroidconNYC">@DroidconNYC</a> about i18n &amp; l10n!!! <a href="https://t.co/mCxVTkoFWc">https://t.co/mCxVTkoFWc</a>
+</p>— Siena (@sienatime) <a href="https://twitter.com/sienatime/status/624613621583122432">July 24, 2015</a>
+</blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+<p>I had been needlessly fretting about whether I should submit my Realm talk as well as my new talk but received some great advice from Chiu-Ki, which was to let the conference organizers decide for me. It seems so obvious in retrospect!</p>
+<p>Droidcon NYC was so much fun, and it was so fantastic to share a stage with so many other awesome women Android developers (14 out of 64 speakers), as contrasted with Droidcon Montreal, where there were 5 (by my count) women speaking out of 40+ speakers. I don't know if I would have submitted a brand new talk if it weren't for these women's encouragement, so thank you, Android feminist illuminati ;)</p>
+<p>After returning from New York in August, most of my spare time and brain space went towards planning my wedding, because oh yeah, I also got married in 2015.</p>
+<div style="margin: 0 auto; max-width: 500px;min-width: 220px">
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">I married my best friend this weekend 😁💐💖💍 <a href="https://t.co/2F7Giy9YZv">pic.twitter.com/2F7Giy9YZv</a>
+</p>— Siena (@sienatime) <a href="https://twitter.com/sienatime/status/663748549805367300">November 9, 2015</a>
+</blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img src="https://scontent.cdninstagram.com/hphotos-xpt1/t51.2885-15/e35/12063268_701944393273250_1337469882_n.jpg" width="100%" />
+</div>
+<p>Of course Stella was one of my bridesmaids. emoji party 4ever.</p>
+<h2>2016 Goals</h2>
+<p>So where does that leave us for 2016? I have some ideas.</p>
+<ul><li><span style="background-color: transparent;">Speak at at least one conference (preferably two, one international, one domestic)</span>
+</li>
+<li><span style="background-color: transparent;">Formulate a speaking strategy for some Ruby and/or Rails conferences and submit</span>
+</li>
+<li><span style="background-color: transparent;">Speak at a local Ruby meetup</span>
+</li>
+</ul>
+<p>It's been hard for me to figure out what I would want to speak about in a web context; I've felt intimidated by the depth/breadth/size of the Rails and JavaScript communities, whereas Android feels much more comfortable. Hopefully I can return to Android development at some time in the future, but for now I want to spend some time gaining in-depth knowledge of web technologies and figure out how to leverage that into some new conference arenas.</p>
+<p>How are you going to challenge yourself in 2016?</p>
+Tags: goals, droidcon montreal 2015, droidcon nyc 2015, pokemon, public speaking, year-in-review, android
+
+-----------------------------------------
+
+Title: Listen to Siena on Less Than or Equal, now a part of Relay FM
+Published At: 2015-11-30 14:07:00 UTC
+Body: <p>I definitely checked one off my bucket list when I was asked to be on Aleen Simm's (<a href="https://twitter.com/Aleen" title="https://twitter.com/Aleen">@aleen</a>) podcast, <a href="http://www.relay.fm/ltoe" title="http://www.relay.fm/ltoe" target="_blank">Less Than or Equal</a>, back in August, and today her show was brought onto the <a href="http://www.relay.fm/" title="http://www.relay.fm/" target="_blank">Relay FM</a> network! My episode is <a href="http://www.relay.fm/ltoe/56" title="http://www.relay.fm/ltoe/56" target="_blank">here</a>&#160;and we talk about my career, video games, web frameworks, and more.</p>
+<img src="https://s3-us-west-2.amazonaws.com/emojiparty/2015/broadcast_thumbnail_ltoe_artwork.png" width="200" height="200" style="float:right; margin-left: 10px" />
+<p>Be sure to listen to the rest of the Less Than or Equal backlog, and my other favorites on Relay FM (all shows that feature women in tech) <a href="http://www.relay.fm/isometric" title="http://www.relay.fm/isometric" target="_blank">Isometric</a>&#160;(video games), <a href="http://www.relay.fm/rocket" title="http://www.relay.fm/rocket" target="_blank">Rocket</a>&#160;(tech and other geekery), and <a href="http://www.relay.fm/material" title="http://www.relay.fm/material" target="_blank">Material</a> (Google and Android ecosystems).</p>
+<p>Congrats again to Aleen!</p>
+Tags: podcasts
+
+-----------------------------------------
+
+Title: Conf Writeup: RubyConf Australia 2016
+Published At: 2016-02-16 13:19:00 UTC
+Body: <p>This conference was so freaking awesome. Some events you can tell are going to be great just by what information you can find online beforehand, and <a href="http://rubyconf.org.au" title="http://rubyconf.org.au" target="_blank">RubyConf Australia</a> was one of those events for me: the location in the Gold Coast looked beautiful, the social events sounded super fun, the lineup was sure to be incredible, and the sense of community and inclusiveness was pervasive from the very beginning (including a very visible Code of Conduct).</p>
+<p>All of these things turned out to be just as great as they seemed. I was very happy that my own conference-speaking schedule was going to allow me to make a pit stop in Australia before my talk at <a href="http://droidkaigi.github.io/2016/" title="http://droidkaigi.github.io/2016/" target="_blank">DroidKaigi</a> in Tokyo the week after. Of course my main impetus for attending was to see emoji party other half Stella present about load testing for her first ever conference talk (yay Stella omg woo, she did so well!). Look out for more news from us when you can watch the video.</p>
+<div style="margin: 0 auto; max-width: 500px;min-width: 220px">
+<blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div>
+</div>
+<p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BBn0hkMHXvd/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A photo posted by @sienatime_</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;">Feb 10, 2016 at 2:16pm PST</time>
+</p>
+</div>
+</blockquote>
+<script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
+<p style="text-align: center; color: #797979"><em>emoji party lookin' good at the opening party.</em>
+</p>
+</div>
+<p>The conference kicked off with a bang, hosted by the very energetic <a href="https://twitter.com/search?q=%23melliam" title="https://twitter.com/search?q=%23melliam" target="_blank">#melliam</a> (Mel Kaulfuss <a href="https://twitter.com/MelissaKaulfuss" title="https://twitter.com/MelissaKaulfuss" target="_blank">@MelissaKaulfuss</a>&#160;and Liam Esler <a href="https://twitter.com/liamesler" title="https://twitter.com/liamesler" target="_blank">@liamesler</a>), who set their own quirky tone by MCing the event while dressed in ball gowns and bowties, respectively. As both of them are self-professed on the peripheral of the Ruby community (as in, they are involved but neither of them are professional Ruby developers), they made sure that Rubyists of all levels and kinds were made to feel welcome. Not only was the Code of Conduct mentioned prominently at the beginning of the conference, but the regular bathroom signs had been replaced with signs that merely said “toilets with urinals” and “toilets without urinals” to make them gender neutral (mad props to conference organizers Rob Jacoby <a href="http://twitter.com/robjacoby" title="http://twitter.com/robjacoby" target="_blank">@robjacoby</a>, Trish Jacoby, Jo Cranford <a href="http://twitter.com/jocranford" title="http://twitter.com/jocranford" target="_blank">@jocranford</a>, and all the other volunteers).</p>
+<div style="margin: 0 auto; max-width: 500px;min-width: 220px">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/rubyconf_au">@rubyconf_au</a> doing an A+ job at inclusivity so far! <a href="https://twitter.com/hashtag/rubyconf_au?src=hash">#rubyconf_au</a> <a href="https://t.co/o5e6zRux32">pic.twitter.com/o5e6zRux32</a>
+</p>— Siena (@sienatime) <a href="https://twitter.com/sienatime/status/697585387930152960">February 11, 2016</a>
+</blockquote>
+</div>
+<p>As far as the lineup went, there was no shortage of interesting speakers who spoke on both technical topics as well as subjects like empathy, giving and receiving feedback, diversity in tech, and even Shakespeare. Learning new technical concepts is great and all, but having talks about more “soft” skills helps to normalize the importance of being an effective and happy team player, and not just a code-writing machine operating in a vacuum. Plus, it can be hard to concentrate on super technical content all day, so it helps to break it up with some other related conent that works your brain in different ways. Some of my favorite talks included Katrina Owen’s “One Undo,” an artfully crafted talk on refactoring using the poem “There was an old lady who swallowed a fly.” (I’m very much looking forward to the book she is working on with Sandi Metz, <a href="http://signup.99bottlesbook.com/" title="http://signup.99bottlesbook.com/" target="_blank">99 Bottles of OOP</a>.) Other favorites included Enrico Teotti’s talk on maintaining large Ruby apps (hint: local gems!), Jeff Casimir's thoughtful keynote about making mistakes (what a cool guy, I’m sure he’s a great teacher), and Sebastian von Conrad’s about event sourcing (something I had never heard of but understood perfectly by the time his talk was done).</p>
+<div style="margin: 0 auto; max-width: 500px;min-width: 220px">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Run `rspec --format documentation`. Does it tell a good story? <a href="https://twitter.com/tjridge">@tjridge</a> <a href="https://twitter.com/hashtag/rubyconf_au?src=hash">#rubyconf_au</a>
+</p>— Siena (@sienatime) <a href="https://twitter.com/sienatime/status/697960934661226496">February 12, 2016</a>
+</blockquote>
+
+</div>
+<p>I did a few sketchnotes during the conference, which is always a fun way for me to interact with the speakers and the rest of the attendees. I very foolishly did not pack a ruby red marker, a mistake I’m sure not to repeat in the future. I only sketchnoted some of the 40-minute talks, as I felt like the 20-minute talks were best listened to instead of spent worrying about filling up a whole page of notes (though some talks I do regret not taking notes during, but it is a good chance to live-tweet instead. It’s hard to both sketchnote and live-tweet a talk). I’m planning on scanning and cleaning them up when I get home from my travels, so stay tuned.</p>
+<div style="margin: 0 auto; max-width: 500px;min-width: 220px">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Weeee, got some chocolates from <a href="https://twitter.com/hashtag/melliam?src=hash">#melliam</a> for my <a href="https://twitter.com/hashtag/sketchnotes?src=hash">#sketchnotes</a> at <a href="https://twitter.com/hashtag/rubyconf_au?src=hash">#rubyconf_au</a> ! Thanks!!</p>— Siena (@sienatime) <a href="https://twitter.com/sienatime/status/697933902405439488">February 12, 2016</a>
+</blockquote>
+
+</div>
+<p>Whoever planned the conference food clearly has as big of a sweet tooth as I do: there was an abundance of tasty treats during teatime (which, delightfully, is a thing that happens in Australia as well as in England), during meals, and of course from the ever-present gelato cart. Both the coffee and the lunches during the conference were excellent, which is a difficult thing to achieve.</p>
+<p>I don’t think it would be fair to rattle on about all the social events for too long, so I will just give you a taste: I sampled lots of local beer, held a koala, hung out with kangaroos, rode rollercoasters, and played beach volleyball. How great is that? It really helped give me a taste of the Australian lifestyle by having all these group activities. If you are organizing a conference, take advantage of group discount rates to get your attendees some local color and some social time outside of just drinking alcohol (which is all well and good for some, but can alienate or even harm others). Thank you RubyConf Australia organizers for going the extra mile to make every event special.</p>
+<div style="margin: 0 auto; max-width: 500px;min-width: 220px">
+<blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div>
+</div>
+<p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BBtedJzHXsY/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A photo posted by @sienatime_</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;">Feb 12, 2016 at 6:59pm PST</time>
+</p>
+</div>
+</blockquote>
+<script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
+<p style="text-align: center; color: #797979"><em>Why would you even go to Australia if you didn't get to hold a koala?</em>
+</p>
+</div>
+<p>All in all, this was a super fun conference, and I hear from a very good source that it was a pleasure to speak at as well as attend. I would heartily recommend it to anyone who can make the trip to the land down under (and there is some <a href="http://www.rubyconf.org.au/2016/rubyconf-assist" title="http://www.rubyconf.org.au/2016/rubyconf-assist" target="_blank">financial assistance</a> available as well). I met some wonderful people, and I hope to see them again somewhere in this great world.</p>
+<div style="margin: 0 auto; max-width: 500px;min-width: 220px">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Goodbye, Australia! You were lovely. We'll be back. Thanks <a href="https://twitter.com/hashtag/rubyconf_au?src=hash">#rubyconf_au</a> for the prefect excuse to come down here 😄🇦🇺 <a href="https://t.co/viDyVFtecE">pic.twitter.com/viDyVFtecE</a>
+</p>— Siena (@sienatime) <a href="https://twitter.com/sienatime/status/699389796766978048">February 16, 2016</a>
+</blockquote>
+</div>
+<p>As mentioned, I'm speaking this week at DroidKaigi, so I'll have some more posts for you soon!</p>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Tags: conference, rubyconf australia, rubyconf
+
+-----------------------------------------
+
+Title: RubyConf Australia 2016 Sketchnote Round-up
+Published At: 2016-02-28 14:41:00 UTC
+Body: <p>As promised in my <a href="http://emojiparty.net/blog/posts/conf-writeup-rubyconf-australia-2016" title="http://emojiparty.net/blog/posts/conf-writeup-rubyconf-australia-2016">write-up</a> of the conference, here are the scans from my sketchnotes at <a href="http://www.rubyconf.org.au" title="http://www.rubyconf.org.au" target="_blank">RubyConf Australia</a>. As always, sketchnoting provided a unique way for me to interact with speakers and other conference attendees, and I'm always happy when others think the work I put into my notes is cool. This crowd was particularly receptive, so that was nice. Jeff Casimir's keynote actually had too much good content to fit on only one page, so it's a two-parter. It's always a pleasure to sketchnote for friends, and since I had heard Stella's talk once before and had access to her notes, I was able to cheat a little bit. There was so much great content at this conference that I didn't sketchnote, so please do stay tuned for when the videos are posted. Anyway I hope you enjoy!</p>
+<hr />
+<p>Keynote: Making Mistakes by Jeff Casimir (<a href="https://www.twitter.com/j3" title="https://www.twitter.com/j3" target="_blank">@j3</a>)</p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDIvMjgvMDIvMTgvMDMvNzVhMzlmZWYtZDYzNy00OGM4LTk0MzctM2Y2ZjRjYTJiYmNmLzAxYV9qZWZmX21pc3Rha2VzLnBuZyJdXQ/01a_jeff_mistakes.png?sha=ba8f32b05c73614a" title="Making Mistakes, Part 1" alt="Making Mistakes, Part 1" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDIvMjgvMjEvNDAvNTIvOGNiMzNmZTQtMDEzOS00NzhiLWIzMGMtMjBiZTM4OWVhM2Y1LzAxYl9qZWZmX21pc3Rha2VzLnBuZyJdXQ/01b_jeff_mistakes.png?sha=4f6297be319e3967" title="Making Mistakes, Part 2" alt="Making Mistakes, Part 2" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Build and Maintain Large Ruby Applications by Enrico Teotti (<a href="https://www.twitter.com/agenteo" title="https://www.twitter.com/agenteo" target="_blank">@agenteo</a>)</p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDIvMjgvMjEvNDIvNDAvYmMxZmRhZDYtYTk3ZC00MDg1LTgxOGYtM2UxMDdmMmFkZDUyLzAyX2Vucmljb19sYXJnZV9hcHBzLnBuZyJdXQ/02_enrico_large_apps.png?sha=52d8783721715cd7" title="Build and Maintain Large Ruby Applications" alt="Build and Maintain Large Ruby Applications" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Burn Your Idiomatic Ruby by Arne Brasseur (<a href="https://www.twitter.com/plexus" title="https://www.twitter.com/plexus" target="_blank">@plexus</a>)</p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDIvMjgvMjEvNDIvNTYvNmNmNmI5MDktYTc4Mi00YmM5LWEwYmUtMDk3N2I3NDQ4NDJjLzAzX2FybmVfaWRpb21hdGljX3J1YnkucG5nIl1d/03_arne_idiomatic_ruby.png?sha=e8019340feb2792b" title="Burn Your Idiomatic Ruby" alt="Burn Your Idiomatic Ruby" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Site Availability Is for Everybody by Stella Cotton (<a href="https://www.twitter.com/practice_cactus" title="https://www.twitter.com/practice_cactus" target="_blank">@practice_cactus</a>)</p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDIvMjgvMjEvNDMvMjIvMzg5OGFkNDgtMzhlZi00YTIyLTg1ZDQtZjZjOGYyZWQxNmMxLzA0X3N0ZWxsYV9zaXRlX2F2YWlsYWJpbGl0eS5wbmciXV0/04_stella_site_availability.png?sha=984e22b5b0dd1160" title="Site Availability Is for Everybody" alt="Site Availability Is for Everybody" style="width: 100%; height: 100%; max-width: 512px" /></p>
+Tags: rubyconf australia, rubyconf, ruby, rails, sketchnotes
+
+-----------------------------------------
+
+Title: DroidKaigi 2016 Sketchnote Round-up
+Published At: 2016-03-03 15:41:00 UTC
+Body: <p>I was thrilled to be able to attend this year's <a href="https://droidkaigi.github.io/2016/" title="https://droidkaigi.github.io/2016/" target="_blank">DroidKaigi</a> in Tokyo, where I gave my talk Fearless Internationalization and Localization Across the Nations. I was lucky enough to share the stage with several friends from the States, and indeed we were five out of the six international speakers in what I dubbed “The English Room” (the rest of the talks were in Japanese, and it was a four-track conference). I did try my hand at sketchnoting some of the Japanese talks to varying degrees of success. I speak Japanese but don't use it in a technical context basically ever, so I knew I was lacking a lot of linguistic foundation going into these talks, but I gave it my best shot anyway. So without further ado, my notes. よろしくお願いします！</p>
+<hr />
+<p>Advanced RecyclerView Techniques by Joshua Jamison (<a href="https://www.twitter.com/cephus" title="https://www.twitter.com/cephus" target="_blank">@cephus</a>)</p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDIvMjgvMjEvNDUvMTcvZjllM2I2MGQtNTg1YS00YzJlLThhYWYtMzYyZjQzN2YwOWU1LzAxX2pvc2hfcmVjeWNsZXJ2aWV3cy5wbmciXV0/01_josh_recyclerviews.png?sha=c20ce414e34ab36f" title="Advanced RecyclerView Techniques" alt="Advanced RecyclerView Techniques" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Fragments: Why, How, and What For? by Brenda Cook (<a href="https://www.twitter.com/kenodoggy" title="https://www.twitter.com/kenodoggy" target="_blank">@kenodoggy</a>)</p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDIvMjgvMjEvNDUvMzcvYmNhNzQxMGEtMTk5Zi00ZWMxLTliY2QtMjVmMTdkZmYxNTgzLzAyX2JyZW5kYV9mcmFnbWVudHMucG5nIl1d/02_brenda_fragments.png?sha=b60c81bbd3a5d051" title="Fragments: Why, How, and What For?" alt="Fragments: Why, How, and What For?" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Dagger2とRealmを利用したモダンな開発 (Modern Development Using Dagger2 and Realm) by Ryou Kitamura (<a href="https://www.twitter.com/experopero" title="https://www.twitter.com/experopero" target="_blank">@experopero</a>)</p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDIvMjgvMjEvNDYvMDAvYWU4MDQwMmUtZWE4MC00ZmRkLWFmNTAtNzU4NWVlYjUwZWViLzAzX2RhZ2dlcl9yZWFsbS5wbmciXV0/03_dagger_realm.png?sha=dfea5ad42cf1722d" title="Dagger2とRealmを利用したモダンな開発 " alt="Dagger2とRealmを利用したモダンな開発 " data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>明日、敗訴しないためのセキュアコーディング (Coding Securely So You Don't Get Sued) by Kengo Suzuki (<a href="https://www.twitter.com/kengoscal" title="https://www.twitter.com/kengoscal" target="_blank">@kengoscal</a>)</p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDIvMjgvMjEvNDYvMTgvMzQzMWNjZjEtMDhlMy00MmFkLWExOWEtZTI0MDYwNDZmM2Q5LzA0X2tlbmdvX3NlY3VyaXR5LnBuZyJdXQ/04_kengo_security.png?sha=2ba258d9b79a1dab" title="明日、敗訴しないためのセキュアコーディング" alt="明日、敗訴しないためのセキュアコーディング" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Annotation Processing in Android by Emanuele Zattin (<a href="https://www.twitter.com/emanuelez" title="https://www.twitter.com/emanuelez" target="_blank">@emanuelez</a>)</p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDIvMjgvMjEvNDYvMzYvYWJjOWQ1MDItNTVhYS00YmFjLTkwYzQtM2FjZmM4N2Y0MWUwLzA1X2VtYW51ZWxlX2Fubm90YXRpb25zLnBuZyJdXQ/05_emanuele_annotations.png?sha=67ddea89e03633cb" title="Annotation Processing in Android" alt="Annotation Processing in Android" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Loving Lean Layouts by Huyen Tue Dao (<a href="https://www.twitter.com/queencodemonkey" title="https://www.twitter.com/queencodemonkey" target="_blank">@queencodemonkey</a>)</p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDIvMjgvMjEvNDYvNTAvZGJjMTBkZDctOTc0Ny00NzdhLWIyNTItNGVjMDdiN2Q3MDkzLzA2X2h1eWVuX2xheW91dHMucG5nIl1d/06_huyen_layouts.png?sha=7e5353e6c8e3c496" title="Loving Lean Layouts" alt="Loving Lean Layouts" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+Tags: droidkaigi, sketchnotes, android
+
+-----------------------------------------
+
+Title: Droidcon SF 2016 Sketchnote Round-up
+Published At: 2016-03-19 02:12:00 UTC
+Body: <p>When I first heard that Droidcon was finally coming to my neck of the woods in San Francisco, I was a little disappointed, because it had been scheduled a few days after my wedding, so I didn't think I would be able to make it. Luckily for me, it got pushed back from November to March, and even though I just came back from two international conferences, I was very happy to be able to attend the inaugural <a href="http://sf.droidcon.com/" title="http://sf.droidcon.com/" target="_blank">Droidcon SF</a>, hosted at the beautiful Fort Mason in the Marina district of San Francisco. It was lovely seeing friends from out of town and getting to meet some more members of the Android community, as always. Everyone is also a-twitter about this year's I/O, which will be held in Mountain View, so hopefully I'll get to see some of these faces again soon. Hope you enjoy the sketchnotes!</p>
+<hr />
+<p>Android Development Today by Chet Haase (<a href="https://www.twitter.com/chethaase" title="https://www.twitter.com/chethaase" target="_blank">@chethaase</a>) and Romain Guy (<a href="https://www.twitter.com/romainguy" title="https://www.twitter.com/romainguy" target="_blank">@romainguy</a>)</p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDMvMTkvMjEvMDAvMjkvNDRlMmUzZGQtNGMxZi00Nzk0LTk3YjktYjA5NzA1OTQ0ZjRkLzAxX2NoZXRfcm9tYWluZV9rZXlub3RlX24ucG5nIl1d/01_chet_romaine_keynote_n.png?sha=e41205dcac5247c9" title="Android Development Today" alt="Android Development Today" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Android Development Like a Pro by Israel Ferrer Camacho (<a href="https://www.twitter.com/rallat" title="https://www.twitter.com/rallat" target="_blank">@rallat</a>)</p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDMvMTkvMjEvMDAvNTIvZWZkMjRmN2QtMmIyMC00NGM1LTg1ODQtM2M5ZTcxNjM3ZWE2LzAyX2lzcmFlbF9hbmRyb2lkZGV2cHJvLnBuZyJdXQ/02_israel_androiddevpro.png?sha=e9298520a61c74b0" title="Android Development Like A Pro" alt="Android Development Like A Pro" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Understanding Performance in the Wild by Delyan Kratunov (<a href="https://www.twitter.com/BurntBrunch" title="https://www.twitter.com/BurntBrunch" target="_blank">@BurntBrunch</a>)</p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDMvMTkvMjEvMDEvMTQvYzNiMTAwY2EtZWY0ZS00NDVjLWFlNjktOGNhZTlkMmVkY2RlLzAzX2RlbHlhbl9wZXJmb3JtYW5jZS5wbmciXV0/03_delyan_performance.png?sha=57ba8f9d1b17818c" title="Understanding Performance in the Wild" alt="Understanding Performance in the Wild" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Borrowing the Best of Web to Make Native Better by Christina Lee (<a href="https://www.twitter.com/RunChristinaRun" title="https://www.twitter.com/RunChristinaRun" target="_blank">@RunChristinaRun</a>)</p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDMvMTkvMjEvMDIvMDMvYWIwNmJlNWQtYzg0YS00NjQ0LTg5MmMtZGI4NDA1ZTI0NTllLzA0X2NocmlzdGluYV9iZXN0X29mX3dlYi5wbmciXV0/04_christina_best_of_web.png?sha=2abb5d33e4673898" title="Borrowing the Best of Web to Make Android Better" alt="Borrowing the Best of Web to Make Android Better" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Android Internal Library Dependency Management by Kelly Shuster (<a href="https://www.twitter.com/KellyShuster" title="https://www.twitter.com/KellyShuster" target="_blank">@KellyShuster</a>)</p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDMvMTkvMjEvMDIvMjcvZDA3YzI4OWYtMDFlYi00NWY1LTlkYTQtMjE2MDI2ZTBkMDY2LzA1X2tlbGx5X2ludGVybmFsX2RlcF9tZ210LnBuZyJdXQ/05_kelly_internal_dep_mgmt.png?sha=05681860210770ec" title="Android Internal Library Dependency Management" alt="Android Internal Library Dependency Management" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+Tags: droidcon sf 2016, sketchnotes, android
+
+-----------------------------------------
+
+Title: Google I/O 2016 Sketchnote Round-Up
+Published At: 2016-05-21 16:01:00 UTC
+Body: <p>This year's I/O was held at Shoreline Amphitheater in Mountain View, California, where the first I/O was held ten years ago. I used to live in Palo Alto but have since turned into a city snob, so I wasn't exactly looking forward to making the trek down to the Peninsula for the week, but I was very much looking forward to seeing old friends and meeting new ones. The conference was not without its setbacks (such as sitting in direct sun for the two-hour keynote, massive lines to get into sessions, and whatever allergens made my sinuses go crazy), but once the weather cooled off and the amphitheater was available for large sessions again, things got much more fun. I didn't sketchnote anything on day 1, mostly because I couldn't get into anything, but on days 2 and 3 I attended some sessions about both Android and the mobile web. Fun fact, <a href="http://emojiparty.net/blog/posts/google-i-o-2015-sketchnote-round-up" title="http://emojiparty.net/blog/posts/google-i-o-2015-sketchnote-round-up">last year's I/O was the first time I ever sketchnoted</a>! It's been a great year of sketchnotes, and you can see them all under the <a href="http://emojiparty.net/blog/tagged/2/sketchnotes" title="http://emojiparty.net/blog/tagged/2/sketchnotes">#sketchnotes</a> tag. Also keep a lookout on the<a href="https://www.youtube.com/playlist?list=PLOU2XLYxmsILe6_eGvDN3GyiodoV3qNSC" title="https://www.youtube.com/playlist?list=PLOU2XLYxmsILe6_eGvDN3GyiodoV3qNSC" target="_blank"> Google I/O 2016 YouTube playlist</a> for videos of these sessions and more. Enjoy!</p>
+<hr />
+<p>What's New in Notifications in Android N and Android Wear 2.0 by Alexander Hills and Dan Sandler (<a href="https://www.twitter.com/dsandler" title="https://www.twitter.com/dsandler" target="_blank">@dsandler</a>)</p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDUvMjEvMjIvMTAvMjcvZjJhMGI1MjctNDBkMi00MDMwLWJiN2QtYWVkMDI4YjZiZjg5LzAxX25vdGlmaWNhdGlvbnMucG5nIl1d/01_notifications.png?sha=0329e1da5e10242d" title="What's New in Notifications in Android N and Android Wear 2.0" alt="What's New in Notifications in Android N and Android Wear 2.0" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>What's New in Android Dev Tools by Stephanie Cuthbertson, Tor Norbye (<a href="https://www.twitter.com/tornorbye" title="https://www.twitter.com/tornorbye" target="_blank">@tornorbye</a>), and Jamal Eason</p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDUvMjEvMjIvMTEvMTAvMmUwMjNjNGQtNGUxNS00NTQyLWI1MzQtNzQ1YzFlMzAxN2I3LzAyX2FuZHJvaWRfZGV2X3Rvb2xzLnBuZyJdXQ/02_android_dev_tools.png?sha=8a27da692ea5c6ff" title="What's New in Android Dev Tools" alt="What's New in Android Dev Tools" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>What's New in Android Wear 2.0 by Brett Lider (<a href="https://www.twitter.com/bl" title="https://www.twitter.com/bl" target="_blank">@bl</a>) and Daniel Koulomzin (<a href="https://www.twitter.com/dkoulomzin" title="https://www.twitter.com/dkoulomzin" target="_blank">@dkoulomzin</a>)</p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDUvMjEvMjIvMTEvMjkvNjNjZTU4ODUtNjRjZi00N2NlLWJhNmUtMjRhZWMxZmJmZDVlLzAzX2FuZHJvaWRfd2Vhcl8yLnBuZyJdXQ/03_android_wear_2.png?sha=4232a5d942230c02" title="What's New in Android Wear 2.0" alt="What's New in Android Wear 2.0" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>What's Next for the Web by Chris Wilson (<a href="https://www.twitter.com/cwilso" title="https://www.twitter.com/cwilso" target="_blank">@cwilso</a>) and Francois Beaufort</p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDUvMjEvMjIvMTIvMDQvMzcxYjU0OGItMDg0Yy00MWE4LTlkMmMtZmY2NDU0YjUwZjlmLzA0X25leHRfZm9yX3dlYi5wbmciXV0/04_next_for_web.png?sha=a689b8d037dc40dc" title="What's Next for the Web" alt="What's Next for the Web" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Angular 2 by Kara Erickson (<a href="https://www.twitter.com/karaforthewin" title="https://www.twitter.com/karaforthewin" target="_blank">@karaforthewin</a>) and Jules Kremer (<a href="https://www.twitter.com/jules_kremer" title="https://www.twitter.com/jules_kremer" target="_blank">@jules_kremer</a>)</p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDUvMjEvMjIvMTIvMzUvYzM1ZjAzMDQtYjYyNi00NTE0LTgzMTItYjM1MzE4NWIyOTNhLzA1X2FuZ3VsYXJfMi5wbmciXV0/05_angular_2.png?sha=d6b3b6c53950b00a" title="Angular 2" alt="Angular 2" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Constraint Layout by Nicholas Roard (<a href="https://www.twitter.com/camaelon" title="https://www.twitter.com/camaelon" target="_blank">@camaelon</a>) and John Hoford (<a href="https://www.twitter.com/johnhoford" title="https://www.twitter.com/johnhoford" target="_blank">@johnhoford</a>)</p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDUvMjEvMjIvMTIvNTUvZDhiNWNhMDctNTA4Ny00ZTZhLTg3YTQtZjJmOGYxYTNmMmRhLzA2X2NvbnN0cmFpbnRfbGF5b3RzLnBuZyJdXQ/06_constraint_layots.png?sha=699b1b1301e95ac5" title="Constraint Layouts" alt="Constraint Layouts" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Bringing Seamless Checkouts to Mobile Web by Rouslan Solomakhin (<a href="https://www.twitter.com/rsolomakhin" title="https://www.twitter.com/rsolomakhin" target="_blank">@rsolomakhin</a>) and Alex Sieke (<a href="https://www.twitter.com/asieke" title="https://www.twitter.com/asieke" target="_blank">@asieke</a>)</p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDUvMjEvMjIvMTMvNDkvZDcwOWRjYmItNjg0MC00MjQ5LTk3N2MtZDIwNjYzMzQyYmRlLzA3X3NlYW1sZXNzX21vYmlsZV93ZWJfcGF5bWVudHMucG5nIl1d/07_seamless_mobile_web_payments.png?sha=36da56ff86a6c4c8" title="Bringing Seamless Checkouts to Mobile Web" alt="Bringing Seamless Checkouts to Mobile Web" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+<hr />
+<p>Progressive Web Apps Across All Frameworks by Addy Osmani (<a href="https://www.twitter.com/addyosmani" title="https://www.twitter.com/addyosmani" target="_blank">@addyosmani</a>)</p>
+<p><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDUvMjEvMjIvMTQvMTIvYTJkYmUyNDgtM2FkYS00OTVjLThjODItMDA5YmM3ZWIzZjYzLzA4X3Byb2dyZXNzaXZlX3dlYl9hcHBzX2FsbF9mcmFtZXdvcmtzLnBuZyJdXQ/08_progressive_web_apps_all_frameworks.png?sha=926034bcc9f99598" title="Progressive Web Apps Across All Frameworks" alt="Progressive Web Apps Across All Frameworks" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></p>
+Tags: google i/o, android wear, angular, mobile web, google, sketchnotes, android
+
+-----------------------------------------
+
+Title: Conf Writeup: Write/Speak/Code 2016
+Published At: 2016-06-25 18:14:00 UTC
+Body: <p>Last year, a few friends told me that <a href="http://www.writespeakcode.com/" title="http://www.writespeakcode.com/" target="_blank">Write/Speak/Code</a> was one of the best conferences they had ever been to, and when the 2016 conference was announced, I decided I would make it a priority to attend even if I wasn't speaking myself. How could I resist a conference that hit upon 3 major themes of my life: writing (I have a blog, hello!), speaking (I speak at conferences!), and coding (that's my job!), all with a focus around women and community. Everyone I told about it said, "Oh, obviously you should go to that." So I packed my bags and headed to Chicago.</p>
+<p>The conference had two tracks, one for "first years" (people who had never attended the conference before) and alumna (people who had attended before or were sufficiently senior enough to self-select into the "advanced" track). I found myself in a bit of a quandary, as there were sessions that appealed to me from both tracks, and while there were certainly sessions in the first-year track I wanted to attend, there were others that did not sound useful to me personally based on where I am at with my writing and speaking. I think there were others like me in this sort of in-between state, so I sort of made my own schedule even though I wasn't supposed to (sorry, organizers, you did a great job with the curriculum!).</p>
+<p>On the first day, I went to the alumna track in the morning, which had a focus on leadership skills. I got to see fellow Hackbright alumna KWu (<a href="https://www.twitter.com/kwugirl" title="https://www.twitter.com/kwugirl" target="_blank">@kwugirl</a>) speak on ask and guess cultures (<a href="https://speakerdeck.com/kwugirl/code" title="https://speakerdeck.com/kwugirl/code" target="_blank">Ask vs. Guess Culture Communication</a>), which is something I had never heard of before, and was fascinated with what she had to say about it. Without knowing anything about what her talk was going to be about, I figured I would be an "ask culture" person, since I value honesty and directness, but the more KWu spoke, the more "guess culture" started to resonate with me, and it turns out you can be an extroverted guess culture. To over-simplify, ask culture people tend to ask for things directly even if they might be turned down, and guess culture people would rather not ask until they are sure they will get a "yes."</p>
+<div style="text-align: center">
+<img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDYvMjUvMjMvMjIvMjIvOGYwNjczY2QtYmY3Yy00YzU2LTljMzMtOGU1YThlZTgwMTI2LzAxX2t3dV9hc2tfZ3Vlc3MucG5nIl1d/01_kwu_ask_guess.png?sha=a2d7c3d82efc9002" title="Ask vs. Guess Culture Communication" alt="Ask vs. Guess Culture Communication" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></div>
+<p>In the afternoon, I attended the newbie track for writing, as being forced to come up with blog post topic ideas really appealed to me. We did a topic generating exercise with M&amp;Ms that I really enjoyed:</p>
+<div style="margin: 0 auto; max-width: 500px;min-width: 220px">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Cool ideation exercise: pick from a bag of M&amp;Ms, or randomly! Come up with a blog post topic. <a href="https://twitter.com/hashtag/wsc2016conf?src=hash">#wsc2016conf</a> <a href="https://t.co/33ECfQKFOm">pic.twitter.com/33ECfQKFOm</a>
+</p>— Siena (@sienatime) <a href="https://twitter.com/sienatime/status/743189904306348032">June 15, 2016</a>
+</blockquote>
+</div>
+<p>
+You could also totally do this without M&amp;Ms by just picking randomly, or procrastinate by writing a script that randomly picks a color for you. Hopefully I can turn some of the topics I generated into real posts on this very blog!</p>
+<p>We closed out the day with a session from fellow Android dev Annyce Davis about how she produces videos (<a href="https://drive.google.com/file/d/0B3lCNdjodrLvckxfakZ0OXh4Z0pReFNpZm5Mcmxna2F6TFc4/view" title="https://drive.google.com/file/d/0B3lCNdjodrLvckxfakZ0OXh4Z0pReFNpZm5Mcmxna2F6TFc4/view" target="_blank">Say It With Video</a>), which was very educational. This seems like something I could get into one day, so I'll be keeping these notes around until then.</p>
+<div style="text-align: center">
+<img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTYvMDYvMjUvMjMvMjIvNTEvNjEyYmVjOTgtOTRkZC00MzA3LWIzYTEtMzk2ZjJlMDA0OWY2LzAyX2FubnljZV92aWRlb3MucG5nIl1d/02_annyce_videos.png?sha=6c8c8a2689885cf8" title="Say It With Video" alt="Say It With Video" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></div>
+<p>
+The next day was Speak day for first-years and Visibility day for alumna. The Visibility sessions kicked off with a fantastic presentation from Neha Batra (<a href="https://www.twitter.com/nerdneha" title="https://www.twitter.com/nerdneha" target="_blank">@nerdneha</a>) about building your personal brand ("<a href="https://drive.google.com/file/d/0B3Pxmzx51hq2eWhGek5HZjg3bU0/view" title="https://drive.google.com/file/d/0B3Pxmzx51hq2eWhGek5HZjg3bU0/view" target="_blank">Branding Is the Most Cringeworthy Term You Want to Know About</a>").&#160;</p>
+<div style="margin: 0 auto; max-width: 500px;min-width: 220px">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">"Don't be worried about overpromoting, people care more about themselves than they do about you." <a href="https://twitter.com/nerdneha">@nerdneha</a> <a href="https://twitter.com/hashtag/wsc2016conf?src=hash">#wsc2016conf</a> <a href="https://twitter.com/hashtag/plantingthebrand?src=hash">#plantingthebrand</a>
+</p>— Siena (@sienatime) <a href="https://twitter.com/sienatime/status/743476748805939200">June 16, 2016</a>
+</blockquote>
+</div>
+<p>Another session I really enjoyed on this day was "<a href="https://drive.google.com/open?id=0Bw4zBAzbxtjyZ2JYN3cteU0wZ0E" title="https://drive.google.com/open?id=0Bw4zBAzbxtjyZ2JYN3cteU0wZ0E" target="_blank">Challenging &amp; Democratizing Algorithm Development</a>" by Liz Rush (<a href="https://www.twitter.com/lizmrush" title="https://www.twitter.com/lizmrush" target="_blank">@lizmrush</a>). Her talk was about bias in algorithm development and it's a topic that I think more devs should study. Along with the myth of merit culture, it is commonly believed by tech bros and people who listen to tech bros that computers can't be biased because they are machines, so any examples of racist (or other biased) algorithms are not any person's fault, they are just the product of unattached, unfeeling code. The thing is, humans are biased, and as long as humans are programming algorithms, they are going to contain bias unless we actively fight against it. It's a topic that deserves more attention and I hope more people have the opportunity to see this talk, whether given by Liz or on video.</p>
+<p>I also have to mention the closing keynote on the second day, "<a href="https://drive.google.com/file/d/0B3Pxmzx51hq2NldPR1hWR0pzcVU/view" title="https://drive.google.com/file/d/0B3Pxmzx51hq2NldPR1hWR0pzcVU/view" target="_blank">It's Not You, It's Them: Reflections on Being Marginalized in STEM</a>" delivered by Naomi Ceder (<a href="https://www.twitter.com/NaomiCeder" title="https://www.twitter.com/NaomiCeder" target="_blank">@NaomiCeder</a>). This talk really encompassed a lot of what made Write/Speak/Code so special: we could have discussions and talks that were beyond the basic level of diversity discourse so often seen at tech events these days. We didn't have to establish what bias is, or what it means to be marginalized, or talk about kinds of microaggressions, because we all had a baseline just from living our lives. Naomi opened with "This talk is different because YOU are different," and poignantly outlined her experience as a transgender woman in tech. She ended her talk with a proposal for how to redefine imposter syndrome, not as a "psychological phenomenon" but a "social phenomenon in which people internalize common negative opinions about them" (which sounds very similar to stereotype threat, something brought up by Alex Qin (<a href="https://www.twitter.com/alexqin" title="https://www.twitter.com/alexqin" target="_blank">@alexqin</a>) in her keynote, "<a href="https://speakerdeck.com/noidontdig/shaving-my-head-made-me-a-better-programmer" title="https://speakerdeck.com/noidontdig/shaving-my-head-made-me-a-better-programmer" target="_blank">Shaving My Head Made Me a Better Programmer</a>").</p>
+<div style="margin: 0 auto; max-width: 500px;min-width: 220px">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Android ladies at <a href="https://twitter.com/hashtag/wsc2016conf?src=hash">#wsc2016conf</a> Come say hi if you're <a href="https://twitter.com/WriteSpeakCode">@WriteSpeakCode</a> <a href="https://t.co/UHuXRSYH52">pic.twitter.com/UHuXRSYH52</a>
+</p>— Yash Prabhu (@yashvprabhu) <a href="https://twitter.com/yashvprabhu/status/743229282831450114">June 15, 2016</a>
+</blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+<p>The third day was Code day, and I was really excited to make my first pull request (PR) to an open-source project. I chose Julia Nguyen's (<a href="https://www.twitter.com/fleurchild" title="https://www.twitter.com/fleurchild" target="_blank">@fleurchild</a>)&#160;<a href="http://www.if-me.org/" title="http://www.if-me.org/" target="_blank">If Me</a> site for a few reasons: I think it's a great project that is connecting people and helping to de-stigmatize talking about mental health, Julia recently started working with me at Indiegogo, and it's a Rails app so it was a technology stack that I am familiar with. I led up a small group of people and after familiarizing myself with the code, opened two PRs and reviewed someone else's PR. It felt great to contribute and I look forward to helping out more in my spare time.</p>
+<p>Code day closed out with a sobering presentation by Ruby superstar Coraline Ada Ehmke (<a href="https://www.twitter.com/CoralineAda" title="https://www.twitter.com/CoralineAda" target="_blank">@CoralineAda</a>), "<a href="https://drive.google.com/file/d/0B3Pxmzx51hq2dnE2S2JMaGhEakU/view?pref=2&amp;pli=1" title="https://drive.google.com/file/d/0B3Pxmzx51hq2dnE2S2JMaGhEakU/view?pref=2&amp;pli=1" target="_blank">The Broken Promise of Open Source</a>." Open source can be a really fucked up place and the kinds of discrimination and harassment Coraline has had to put up with is disgusting. I greatly admire her strength in the face of such overt hostility and hope that we can all make open source and tech a better place for women and other underrepresented genders.</p>
+<p>The last day of the conference was all about self care, and was a new addition to the conference this year. I loved Ashley Powell's (<a href="https://www.twitter.com/AshleyPQPQP" title="https://www.twitter.com/AshleyPQPQP" target="_blank">@AshleyPQPQP</a>) salary negotiation talk (<a href="https://drive.google.com/file/d/0B3Pxmzx51hq2dE1aQnZXLVBmSDA/view" title="https://drive.google.com/file/d/0B3Pxmzx51hq2dE1aQnZXLVBmSDA/view" target="_blank">Salary Negotiation for Women in Tech</a>), which had tons of great advice, including phrases to use when negotiating that don't sound overly aggressive, and how to get a raise without getting counter offers.</p>
+<div style="margin: 0 auto; max-width: 500px;min-width: 220px">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Easy negotiating phrases!! <a href="https://twitter.com/hashtag/wsc2016conf?src=hash">#wsc2016conf</a> <a href="https://t.co/BTU84oXOnZ">pic.twitter.com/BTU84oXOnZ</a>
+</p>— Siena (@sienatime) <a href="https://twitter.com/sienatime/status/744220673040650241">June 18, 2016</a>
+</blockquote>
+</div>
+<p>The conference closed out with an unofficial activity, and my favorite form of self care, #nailconf.</p>
+<div style="margin: 0 auto; max-width: 500px;min-width: 220px">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/nailconf?src=hash">#nailconf</a> at <a href="https://twitter.com/hashtag/wsc2016conf?src=hash">#wsc2016conf</a> <a href="https://t.co/kDBfvxSCfK">pic.twitter.com/kDBfvxSCfK</a>
+</p>— Chiu-Ki Chan (@chiuki) <a href="https://twitter.com/chiuki/status/744265479909347328">June 18, 2016</a>
+</blockquote>
+</div>
+<p>I really got a ton out of this conference and hope to come back in the years to come. It had tons of actionable advice and it was so refreshing to hear so many incredibly intelligent people talk about their work and experiences at such a high level of discourse. I believe all of the talks in the main track were recorded, so be on the lookout for those videos. Many thanks to the very hard working organizing team: y'all rock, keep it up.</p>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Tags: write/speak/code 2016, women in tech, conferences, sketchnotes
+
+-----------------------------------------
+
+Title: 2016 Year-In-Review
+Published At: 2017-01-01 13:48:00 UTC
+Body: <p>Happy New Year, everyone! I hope everyone had a restful holiday. I spent time with family in LA and Seattle and played a lot of Pokémon Sun. I'm about 80% of the way through completing the Alola Pokédex.</p>
+<p>I wanted to try to keep up this tradition of doing a year-in-review blog post, since I really enjoyed writing <a href="http://emojiparty.net/blog/posts/pokemon-knitting-and-public-speaking-2015-in-retrospect" title="http://emojiparty.net/blog/posts/pokemon-knitting-and-public-speaking-2015-in-retrospect" target="_blank">last year's</a>, and I actually made resolutions so I wanted to hold myself accountable for how I stacked up. This was a hard year for many reasons that I won't be getting into, but needless to say I'm looking forward to being done with 2016 and moving on to 2017, which is a prime number so that's probably good right?</p>
+<br /><br />
+<h2>2016 Goals</h2>
+<p><span style="background-color: transparent;"><strong>Speak at at least one conference (preferably two, one international, one domestic)</strong>
+</span>
+</p>
+<p><span style="background-color: transparent;">Complete: spoke at DroidKaigi 2016, and was accepted to speak at </span>
+<a href="https://droidkaigi.github.io/2017/en/" title="https://droidkaigi.github.io/2017/en/" target="_blank" style="background-color: transparent;">DroidKaigi 2017</a>
+</p>
+<p><span style="background-color: transparent;"><strong>Formulate a speaking strategy for some Ruby and/or Rails conferences and submit</strong>
+</span>
+</p>
+<p><span style="background-color: transparent;">Complete: Submitted to RubyConf US and Australia</span>
+</p>
+<p><span style="background-color: transparent;"><strong>Speak at a local Ruby meetup</strong>
+</span>
+</p>
+<p><span style="background-color: transparent;">Somewhat ironically incomplete, although I did help start and run </span>
+<a href="http://fogcityruby.github.io/" title="http://fogcityruby.github.io/" target="_blank" style="background-color: transparent;">Fog City Ruby</a>
+<span style="background-color: transparent;"> (formerly SF.rb), which is a lot more work than just speaking at a meetup</span>
+</p>
+<br /><br />
+<p>2016 was a rough year for me in terms of conference speaking. I had gotten my public speaking career off to a great start in 2015, but despite putting in the same amount of effort, I did not have as much success this past year. I certainly don't submit to a large number of conferences (in 2016 I submitted to four and was accepted to one), so I could certainly increase my odds by submitting to more conferences. While I do enjoy being in front of a crowd and the exposure that I get from doing so, it is a lot of work, and it is often difficult to rationalize putting in a ton of energy to conference speaking when I already have a full schedule of work and other things. I was really happy to be accepted to DroidKaigi 2017 at the end of the year, so I hope this new talk on refactoring will re-energize me for submitting to the 2017 conference circuit.</p>
+<br /><br />
+<p>Considering how little public speaking I actually did in 2016, here are some other things I accomplished:</p>
+<p><span style="background-color: transparent;"><strong>Got PADI Open Water Diver certified</strong>
+</span>
+</p>
+<p><span style="background-color: transparent;">This is probably the most surprising (to me) thing I did in 2016. I never thought I would want to learn how to scuba dive, but going to Australia prompted Stella to convince me to try it with her, and I completed the certification and didn't die. Diving at the Great Barrier Reef was super awesome, and I'm really proud of myself for tackling something physically and mentally challenging (I was actually pretty freaked out by the idea of spending that much time underwater, but after doing all the coursework and learning about the science, was able to chill out about it).</span>
+</p>
+<p><span style="background-color: transparent;"><strong>Shaved part of my head</strong>
+</span>
+</p>
+<p><span style="background-color: transparent;">This might not seem like a big deal to some people, but this was something I had been wanting to do for a long time and it was a really freeing experience.</span>
+</p>
+<div style="margin: 0 auto; max-width: 500px;min-width: 220px">
+<blockquote class="instagram-media" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div>
+</div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BBVzs4lHXnr/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Trying something new with my hair :)</a>
+</p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Siena Aguayo (@sienatime_) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;">Feb 3, 2016 at 2:23pm PST</time>
+</p>
+</div>
+</blockquote> <script async="" defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
+</div>
+<p><span style="background-color: transparent;"><strong>Went to Australia for RubyConf Australia (<a href="http://emojiparty.net/blog/posts/conf-writeup-rubyconf-australia-2016" title="http://emojiparty.net/blog/posts/conf-writeup-rubyconf-australia-2016" target="_blank">writeup</a>/<a href="http://emojiparty.net/blog/posts/rubyconf-australia-2016-sketchnote-round-up" title="http://emojiparty.net/blog/posts/rubyconf-australia-2016-sketchnote-round-up" target="_blank">sketchnotes</a>) and Japan for DroidKaigi (<a href="http://emojiparty.net/blog/posts/droidkaigi-2016-sketchnote-round-up" title="http://emojiparty.net/blog/posts/droidkaigi-2016-sketchnote-round-up">sketchnotes</a>)</strong>
+</span>
+</p>
+<p><span style="background-color: transparent;"><strong>Attended Google I/O (<a href="http://emojiparty.net/blog/posts/google-i-o-2016-sketchnote-round-up" title="http://emojiparty.net/blog/posts/google-i-o-2016-sketchnote-round-up" target="_blank">sketchnotes</a>)
+</strong>
+</span>
+</p>
+<p><span style="background-color: transparent;"><strong>Attended Sandi Metz's <a href="https://www.sandimetz.com/courses/" title="https://www.sandimetz.com/courses/" target="_blank">Practical Object-Oriented Design in Ruby</a> class</strong>
+</span>
+</p>
+<p><span style="background-color: transparent;">This was a pretty transformative experience that I'm still processing. I think a lot of what I learned and have been applying in my own work will come out in my upcoming talk at DroidKaigi 2017 entitled "Don't reset --hard: Strategies for Tackling Large Refactors."</span>
+</p>
+<p><span style="background-color: transparent;"><strong>Attended Write/Speak/Code in Chicago (<a href="http://emojiparty.net/blog/posts/conf-writeup-write-speak-code-2016" title="http://emojiparty.net/blog/posts/conf-writeup-write-speak-code-2016" target="_blank">writeup and sketchnotes</a>)
+</strong>
+</span>
+</p>
+<p><span style="background-color: transparent;"><strong>Contributed to open source for the first time and stayed a regular contributor to <a href="https://www.if-me.org/" title="https://www.if-me.org/" target="_blank">if-me.org</a>
+</strong>
+</span>
+</p>
+<p><span style="background-color: transparent;">I'm currently almost done leading a big project to add internationalization to the site and it's been really fun and challenging, and also awesome to help out other contributors. It's also helped me realize just how much I've learned since learning to code three years ago.</span>
+</p>
+<p><span style="background-color: transparent;"><strong>Shipped a huge project at work</strong>
+</span>
+</p>
+<p>It's funny that this was almost an afterthought when compiling this list, but I did spend the better part of my work year shipping a huge project for Indiegogo that is out there live in the wild. Essentially, it allows you to pick options for perks when you go through the checkout flow, which eliminates a ton of overhead for campaigners in terms of collecting this data, and also provides backers with confidence that their selection has been made. It was incredible to me how a thing that sounds relatively simple (i.e. picking a T-shirt size) could be so complex and require so much engineering effort. This was the biggest project I had lead at work so far and spanned two quarters. I'm really proud of the work my team and I did and am looking forward to continuing to build on this foundation in 2017.</p>
+<div style="margin: 0 auto; max-width: 500px;min-width: 220px">
+<img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTcvMDEvMDEvMjAvNTYvNDYvMzBlOGM1YWMtNmFiNC00ZTlkLTgyOTUtMDkwYmM4YmEwYThlL1NjcmVlbiBTaG90IDIwMTctMDEtMDEgYXQgMTIuNTYuMDMgUE0ucG5nIl1d/Screen%20Shot%202017-01-01%20at%2012.56.03%20PM.png?sha=96947344b53728d2" title="Perk Items" alt="Perk Items" data-rel="225x255" style="width: 100%" /><span style="background-color: transparent;"></span>
+</div>
+<p><span style="background-color: transparent;"><strong>Became an area/team lead</strong>
+</span>
+</p>
+<p>I was certainly not expecting this to happen this year and in many ways still feel like I am earning my keep as a team lead. This role at Indiegogo (officially called an area lead) acts as a liaison to the rest of the engineering team and also makes sure their scrum team has what they need to be successful, but is not people management. The leadership part comes naturally to me, but I know I have to work on my technical know-how and confidence, as I'm currently the only person in this role who is not a senior engineer. This is a great growth opportunity for me though, and I'm quite thankful for the continued chance to challenge myself professionally.&#160;</p>
+<p><span style="background-color: transparent;"><strong>Knit a lot</strong>
+</span>
+</p>
+<p>I finished three sweaters and started another one!</p>
+<div style="margin: 0 auto; max-width: 500px;min-width: 220px">
+<img src="https://instagram.fsnc1-2.fna.fbcdn.net/t51.2885-15/e35/12446218_162130210826705_1901947458_n.jpg?ig_cache_key=MTE3MTgzMTY1MjUyMTcwNDM5Mw%3D%3D.2" style="display: inline; width: 48%" /> <img src="https://instagram.fsnc1-2.fna.fbcdn.net/t51.2885-15/e35/14027366_1066453296802838_2095592265_n.jpg?ig_cache_key=MTMyNTczOTQ0NjgxMzIwODc1MA%3D%3D.2" style="display: inline; width: 48%" />
+</div>
+<p>The first I had started in 2015 so was mostly done, the second I knit start-to-finish from January to August, and the third I don't have a picture of but was started by my mom years ago.</p>
+<br /><br />
+<p>Phew. It's actually a lot when all laid out on the table like that. I think especially the last six months have been stressful in a variety of ways, so I had forgotten just how many different things  I achieved this year, even if they were not necessarily goals I had at the beginning of the year. Just goes to show how important reflection is.</p>
+<p>I'm not sure I'm ready to commit to any 2017 goals just yet. Certainly I could use a writing goal (that old "one blog post a month" pledge from Write/Speak/Code sounds good, and I even have an idea of where to fit writing into my schedule, so maybe I could give that one a shot). Fog City Ruby is going to continue into 2017 and I want that to be an even better meetup than it already is. I will keep contributing to if me. And I'll probably submit to some conferences too. I'm also angling to be promoted to senior engineer this year. My Twitter presence has languished since hitting my first milestone of 1000 followers (which I think also happened this year but I can't quite remember), so it could use some love. There's lots of work to be done and lots of growth to be had, personally and professionally, so I think I'm just going to keep doing my thing.</p>
+Tags: goals, public speaking, year-in-review, open source
+
+-----------------------------------------
+
+Title: DroidKaigi 2017 Sketchnote Round-Up
+Published At: 2017-04-02 15:07:00 UTC
+Body: <p>I was very pleased to be accepted to speak again at this year's <a href="https://droidkaigi.github.io/2017/en/" title="https://droidkaigi.github.io/2017/en/" target="_blank">DroidKaigi</a>, where I also spoke <a href="http://emojiparty.net/blog/posts/droidkaigi-2016-sketchnote-round-up" title="http://emojiparty.net/blog/posts/droidkaigi-2016-sketchnote-round-up" target="_blank">last year</a> on internationalization. The talk I gave was a new one on refactoring and was inspired by the workshop "Practical Object-Oriented Design in Ruby" I took last spring taught by <a href="https://www.sandimetz.com/" title="https://www.sandimetz.com/" target="_blank">Sandi Metz</a>. I highly recommend Sandi's workshops and books as she does a really nice job of explaining OOP with real-world examples and exercises. You can get a taste of the workshop I took through her book, co-authored with Katrina Owen, entitled <a href="https://www.sandimetz.com/99bottles/" title="https://www.sandimetz.com/99bottles/" target="_blank">99 Bottles of OOP</a>. Sandi also recommended reading the computer science classic <a href="https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=sr_1_1?ie=UTF8&amp;qid=1491167867&amp;sr=8-1&amp;keywords=refactoring" title="https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=sr_1_1?ie=UTF8&amp;qid=1491167867&amp;sr=8-1&amp;keywords=refactoring" target="_blank">"Refactoring" by Martin Fowler</a>, which I made one of my professional goals this year and also used as inspiration for my talk. I thought that since I still straddle the Ruby and Android worlds, it would be a neat opportunity to introduce some folks in the Android community to what we talk about in the Ruby one, as good code design is always relevant. It sounds like the video of my talk won't be posted as part of DroidKaigi due to technical difficulties, but it will be recorded again and published along with the materials from <a href="http://www.droidcon-boston.com/" title="http://www.droidcon-boston.com/" target="_blank">Droidcon Boston</a>, which is happening soon.</p>
+<p>I should probably write another post about what it means to me personally to be able to go to tech conferences in Japan, so for now I'll just drop my sketchnotes here. Slides for these talks and more are available from the
+<a href="https://droidkaigi.github.io/2017/en/timetable.html" title="https://droidkaigi.github.io/2017/en/timetable.html" target="_blank">DroidKaigi 2017 schedule</a>. I met some lovely new people on this trip and got to know others better. Hats off to the DroidKaigi organizers for another great conference.</p>
+<p>New in this post: You can click the images to view them larger in a new tab!</p>
+<hr />
+<p>Data Binding on Android: How to Use It in the Real World by Kevin Pelgrims (<a href="https://twitter.com/kevinpelgrims" title="https://twitter.com/kevinpelgrims" target="_blank">@kevinpelgrims</a>)</p>
+<p><a href="http://www.emojiparty.net/images/W1siZiIsIjIwMTcvMDQvMDIvMjEvMzgvNTEvNmNmOWNhNzUtOWEyNS00NzFkLWIzZTEtYzFhYWI2MDg3ZWQwL2tldmluLWRhdGEtYmluZGluZy5wbmciXV0/kevin-data-binding.png?sha=b96a1de2da91128d" target="_blank"><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTcvMDQvMDIvMjEvMzgvNTEvNmNmOWNhNzUtOWEyNS00NzFkLWIzZTEtYzFhYWI2MDg3ZWQwL2tldmluLWRhdGEtYmluZGluZy5wbmciXV0/kevin-data-binding.png?sha=b96a1de2da91128d" title="Data Binding on Android: How to Use It in the Real World by Kevin Pelgrims" alt="Data Binding on Android: How to Use It in the Real World by Kevin Pelgrims" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></a>
+</p>
+<hr />
+<p>App Shortcuts in Android Nougat 7.1 by Caren Chang (<a href="https://twitter.com/calren24" title="https://twitter.com/calren24" target="_blank">@calren24</a>)</p>
+<p><a href="http://www.emojiparty.net/images/W1siZiIsIjIwMTcvMDQvMDIvMjEvMjcvNTgvNTA2NjRjYjMtODJjMC00MjNlLTk4Y2EtNzA5ZjIzNzRkZWY0L2NhcmVuLWFwcC1zaG9ydGN1dHMucG5nIl1d/caren-app-shortcuts.png?sha=02da8feabdec46cd" target="_blank"><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTcvMDQvMDIvMjEvMjcvNTgvNTA2NjRjYjMtODJjMC00MjNlLTk4Y2EtNzA5ZjIzNzRkZWY0L2NhcmVuLWFwcC1zaG9ydGN1dHMucG5nIl1d/caren-app-shortcuts.png?sha=02da8feabdec46cd" title="App Shortcuts in Android Nougat 7.1 by Caren Chang" alt="App Shortcuts in Android Nougat 7.1 by Caren Chang" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></a>
+</p>
+<hr />
+<p>Reverse Engineering: Not Just for Hackers by Jon Reeve (<a href="https://twitter.com/themightyjon" title="https://twitter.com/themightyjon" target="_blank">@themightyjon</a>)</p>
+<p><a href="http://www.emojiparty.net/images/W1siZiIsIjIwMTcvMDQvMDIvMjEvNTEvMzEvNDBhMDViMjYtMTBmYy00MTQ0LTkxOGYtOWIwNzhmZThhY2YzL2pvbi1yZXZlcnNlLWVuZ2luZWVyaW5nLnBuZyJdXQ/jon-reverse-engineering.png?sha=320b1dc000ab9dd7" target="_blank"><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTcvMDQvMDIvMjEvNTEvMzEvNDBhMDViMjYtMTBmYy00MTQ0LTkxOGYtOWIwNzhmZThhY2YzL2pvbi1yZXZlcnNlLWVuZ2luZWVyaW5nLnBuZyJdXQ/jon-reverse-engineering.png?sha=320b1dc000ab9dd7" title="Reverse Engineering: Not Just for Hackers by Jon Reeve" alt="Reverse Engineering: Not Just for Hackers by Jon Reeve" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></a>
+</p>
+<hr />
+<p>Layout Inflater: Friend or Foe? by Chris Jenkins (<a href="https://twitter.com/chrisjenx" title="https://twitter.com/chrisjenx" target="_blank">@chrisjenx</a>)</p>
+<p><a href="http://www.emojiparty.net/images/W1siZiIsIjIwMTcvMDQvMDIvMjEvMzMvMjMvYTY5Yjk1NmEtNzQ4YS00YzMxLWI3MTUtNjVlNmJjNGVkMmFmL2NocmlzLWxheW91dC1pbmZsYXRlci5wbmciXV0/chris-layout-inflater.png?sha=02e60aeb9986ffac" target="_blank"><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTcvMDQvMDIvMjEvMzMvMjMvYTY5Yjk1NmEtNzQ4YS00YzMxLWI3MTUtNjVlNmJjNGVkMmFmL2NocmlzLWxheW91dC1pbmZsYXRlci5wbmciXV0/chris-layout-inflater.png?sha=02e60aeb9986ffac" title="Layout Inflater: Friend or Foe? by Chris Jenkins" alt="Layout Inflater: Friend or Foe? by Chris Jenkins" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></a>
+</p>
+<hr />
+<p>Smoke &amp; Mirrors: The Magic Behind Wonderful UI in Andriod by Israel Camacho (<a href="https://twitter.com/rallat" title="https://twitter.com/rallat" target="_blank">@rallat</a>)</p>
+<p><a href="http://www.emojiparty.net/images/W1siZiIsIjIwMTcvMDQvMDIvMjEvNDgvNTEvYjdkMzJiOTEtMTk4Yy00NmI0LThkZGEtNGYwZWFjNWMzYTk0L2lzcmFlbC1zbW9rZS1hbmQtbWlycm9ycy5wbmciXV0/israel-smoke-and-mirrors.png?sha=cb981e59357a91c1" target="_blank"><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTcvMDQvMDIvMjEvNDgvNTEvYjdkMzJiOTEtMTk4Yy00NmI0LThkZGEtNGYwZWFjNWMzYTk0L2lzcmFlbC1zbW9rZS1hbmQtbWlycm9ycy5wbmciXV0/israel-smoke-and-mirrors.png?sha=cb981e59357a91c1" title="Smoke and Mirrors: The Magic Behind Wonderful UI in Andriod by Israel Camacho" alt="Smoke and Mirrors: The Magic Behind Wonderful UI in Andriod by Israel Camacho" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></a>
+</p>
+Tags: droidkaigi, sketchnotes, android
+
+-----------------------------------------
+
+Title: Droidcon Boston 2017 Sketchnote Round-Up
+Published At: 2017-04-18 03:37:00 UTC
+Body: <p><a href="http://www.droidcon-boston.com/" title="http://www.droidcon-boston.com/" target="_blank">Droidcon Boston</a> was a very well organized conference, especially considering it was the organizers' first go at this particular event. It was great to see so many women presenting thoughtful, technical presentations and I was honored to share a stage with them. I gave the same talk I gave at <a href="http://emojiparty.net/blog/posts/droidkaigi-2017-sketchnote-round-up" title="http://emojiparty.net/blog/posts/droidkaigi-2017-sketchnote-round-up" target="_blank">DroidKaigi</a> about refactoring, the recording of which will be published by <a href="https://realm.io/" title="https://realm.io/" target="_blank">Realm</a> at some point in the future. Congratulations to the organizing team for putting on such an inclusive and fun conference.</p>
+<p>I didn't do a ton of sketchnoting, but I'm pretty pleased with how these turned out. As with the last post, you can now click to enlarge each image!</p>
+<hr />
+<p>First Do No Harm by Annyce Davis (<a href="https://twitter.com/brwngrldev" title="https://twitter.com/brwngrldev" target="_blank">@brwngrldev</a>)</p>
+<p><a href="http://www.emojiparty.net/images/W1siZiIsIjIwMTcvMDQvMTgvMDMvNDAvNDkvOTdhMTJjZDAtNDkzZi00ZDk3LWI4YzEtOTRjM2E0ZTMzMWFmL2FubnljZS1kby1uby1oYXJtLnBuZyJdXQ/annyce-do-no-harm.png?sha=4b5a16f4b84a2b12" target="_blank"><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTcvMDQvMTgvMDMvNDAvNDkvOTdhMTJjZDAtNDkzZi00ZDk3LWI4YzEtOTRjM2E0ZTMzMWFmL2FubnljZS1kby1uby1oYXJtLnBuZyJdXQ/annyce-do-no-harm.png?sha=4b5a16f4b84a2b12" title="First Do Not Harm by Annyce Davis" alt="First Do Not Harm by Annyce Davis" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></a>
+</p>
+<hr />
+<p>The Web: Don't Call This a Comeback by Mike Hartington (<a href="https://twitter.com/mhartington" title="https://twitter.com/mhartington" target="_blank">@mhartington</a>)</p>
+<p><a href="http://www.emojiparty.net/images/W1siZiIsIjIwMTcvMDQvMTgvMDMvNDIvNDUvYTEyZTM2ZTktNzZhYy00N2E0LWE2OWItMDU2NmIwYmM3Nzc1L3B3YS5wbmciXV0/pwa.png?sha=190f78b3451e6eea" target="_blank"><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTcvMDQvMTgvMDMvNDIvNDUvYTEyZTM2ZTktNzZhYy00N2E0LWE2OWItMDU2NmIwYmM3Nzc1L3B3YS5wbmciXV0/pwa.png?sha=190f78b3451e6eea" title="The Web: Don't Call This a Comeback by Mike Hartington" alt="The Web: Don't Call This a Comeback by Mike Hartington" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></a>
+</p>
+<hr />
+<p>How to Be an Android Expert by Chiu-Ki Chan (<a href="https://twitter.com/chiuki" title="https://twitter.com/chiuki" target="_blank">@chiuki</a>)</p>
+<p><a href="http://www.emojiparty.net/images/W1siZiIsIjIwMTcvMDQvMTgvMDMvNDMvNDIvMmU4NDZhMmMtYjg1Ny00MDY0LWExMzItNDY3N2E3MTUzOTE4L2NoaXVraS1hbmRyb2lkLWV4cG9ydC5wbmciXV0/chiuki-android-export.png?sha=ac7be13e3f09b367" target="_blank"><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTcvMDQvMTgvMDMvNDMvNDIvMmU4NDZhMmMtYjg1Ny00MDY0LWExMzItNDY3N2E3MTUzOTE4L2NoaXVraS1hbmRyb2lkLWV4cG9ydC5wbmciXV0/chiuki-android-export.png?sha=ac7be13e3f09b367" title="How to Be an Android Expert by Chiu-Ki Chan" alt="How to Be an Android Expert by Chiu-Ki Chan" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></a>
+</p>
+<hr />
+<p>Cool Constraint Layout by Huyen Tue Dao (<a href="https://twitter.com/queencodemonkey" title="https://twitter.com/queencodemonkey" target="_blank">@queencodemonkey</a>)</p>
+<p><a href="http://www.emojiparty.net/images/W1siZiIsIjIwMTcvMDQvMTgvMDMvNDUvMDgvMGEwODA2OTEtYWI1NC00ZDllLWJjYTgtMmM5NTE3NDk5N2NhL2h1eWVuLWNvbnN0cmFpbnQtbGF5b3V0LnBuZyJdXQ/huyen-constraint-layout.png?sha=715546d6ce835be4" target="_blank"><img src="http://www.emojiparty.net/images/W1siZiIsIjIwMTcvMDQvMTgvMDMvNDUvMDgvMGEwODA2OTEtYWI1NC00ZDllLWJjYTgtMmM5NTE3NDk5N2NhL2h1eWVuLWNvbnN0cmFpbnQtbGF5b3V0LnBuZyJdXQ/huyen-constraint-layout.png?sha=715546d6ce835be4" title="Cool Constraint Layout by Huyen Tue Dao" alt="Cool Constraint Layout by Huyen Tue Dao" data-rel="225x255" style="width: 100%; height: 100%; max-width: 512px" /></a>
+</p>
+Tags: sketchnotes, droidcon, droidcon boston 2017, android, progressive web apps
+
+-----------------------------------------

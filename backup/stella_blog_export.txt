@@ -1,0 +1,92 @@
+Title: What to Expect When You’re Expecting to Organize a Small Conference in the Woods
+Published At: 2015-09-25 17:05:00 UTC
+Body: <p><span style="background-color: transparent;">For those who may not know (or muted my incessant tweets somewhere along the way), </span>
+<a href="http://andconf.io" title="http://andconf.io" style="background-color: transparent;">&amp;:conf</a>
+<span style="background-color: transparent;"> is an intersectional feminist unconference and code retreat that took place a month ago in Occidental California. Together with my co-organizers, <a href="https://twitter.com/lilliealbert" title="https://twitter.com/lilliealbert" target="_blank">Lillie Chilen</a> and <a href="https://twitter.com/eanakashima" title="https://twitter.com/eanakashima" target="_blank">Emily Nakashima</a>, we brought together 80 engineers from literally all over the world, with folks joining us from as far as Mexico and Berlin.</span>
+</p>
+<p><span style="background-color: transparent;">The foundations for <a href="http://andconf.io" title="http://andconf.io">&amp;:conf</a> were laid on Castro Street, where the three of us stood outside the <a href="http://lesbianswhotech.org/" title="http://lesbianswhotech.org/" target="_blank">Lesbians Who Tech conference</a>. At that time, Lillie and Emily had plenty of prior experience running tech events and I was foolhardy enough to believe I could try. There are a million little things I learned through this process- but the biggest takeaways would probably be:</span>
+</p>
+
+<div style="margin-left: 20px; margin-bottom: 10px; float: right; ">
+<p><img src="/images/W1siZiIsIjIwMTUvMDkvMjUvMTcvNTcvNTAvYmU5YjJhMzItNWI5Mi00ZjEwLThkMzItZmY5NmNkNzM3NGZjL0lNR180OTYyLkpQRyJdLFsicCIsInRodW1iIiwiMjI1eDI1NVx1MDAzZSJdXQ/IMG_4962.JPG?sha=ca35909852f70117" title="conference_swag_mug" alt="conference_swag_mug" data-rel="300x300" width="300" height="300" /></p>
+</div>
+<br />
+<h2>Talk about your diversity goals from day one<span style="background-color: transparent;"></span>
+</h2>
+<p>We talked about diversity at almost every organizer meeting. For us, a “successful” conference without diverse voices wouldn’t be a success at all. WOC in Tech shared some great advice on diversity outreach in their <a href="https://modelviewculture.com/news/an-open-letter-on-the-state-of-women-of-color-in-technology" title="https://modelviewculture.com/news/an-open-letter-on-the-state-of-women-of-color-in-technology" target="_blank">Open Letter on the State of Women of Color in Technology</a>. We reached out to organizations like <a href="http://www.code2040.org/" title="http://www.code2040.org/" target="_blank">Code2040</a>, <a href="https://oaklandmakerspace.wordpress.com/" title="https://oaklandmakerspace.wordpress.com/" target="_blank">LOL Hackerspace</a>, and <a href="http://www.wocintech.org/" title="http://www.wocintech.org/" target="_blank">WOC in Tech</a> with dedicated scholarship tickets. With the help of these groups, an open scholarship application process, and our sponsors, we were able to provide 30% of the attendees with scholarship tickets, which covered admission, food, lodging, and transportation from San Francisco. I say this not to pat ourselves on the back, but to reiterate that if you’re running a conference, please make diversity an early and ongoing part of the conversation. It doesn’t happen magically and if your diversity outreach plan is a tweet to <a href="https://twitter.com/callbackwomen" title="https://twitter.com/callbackwomen" target="_blank">@CallbackWomen</a>, you should broaden your reach (and still tweet about your conference to <a href="https://twitter.com/callbackwomen" title="https://twitter.com/callbackwomen" target="_blank">@CallbackWomen</a>. :D)</p>
+<p>Could we have done more? Yes! We’d love to be able to offer childcare stipends for parents and more travel stipends for attendees next year. We've also had &amp;:conf attendees graciously volunteer to reach out to their own networks next year. We're also incorporating attendee feedback about what would make the conference a more welcoming place.</p>
+<br />
+<h2>Learn from Distributed Teams</h2>
+<p>Even before one of the organizers moved to Hawaii, it was tough to get three busy software engineers consistently in the same room. The organization process was basically held together by a trifecta of Google Hangouts, Pivotal Tracker, and Slack. Regular synchronous live/hangout check-ins kept us in touch but asynchronous efforts were often the most effective and efficient. Assigning Tracker Stories helped keep track of who was doing what. A private organizer slack channel meant that if someone wasn’t immediately participating, they could scroll back to read what they missed.</p>
+<div style="float: left; margin-right: 20px">
+<p><img src="/images/W1siZiIsIjIwMTUvMDkvMjUvMTcvNTkvNTAvNTRmODI4M2EtMGI0OS00ZTI0LWI3NzktMjJkMWEwODRiNTA3L0lNR180OTQ0LkpQRyJdLFsicCIsInRodW1iIiwiMjI1eDI1NVx1MDAzZSJdXQ/IMG_4944.JPG?sha=3f2e00eb829123c6" title="check_in_table" alt="check_in_table" data-rel="300x300" width="300" height="300" /></p>
+</div>
+<br />
+<h2>Know Your Own Limits- Co-organizers are Your Greatest Gift</h2>
+<p>Find co-organizers who can offset your weaknesses and benefit from your strengths. Know who's not afraid to make the phone calls, who isn't afraid to ask strangers for money, and who isn't afraid to push just one more pixel to the left so the sponsor logos look *JUST* right. You don’t have to be all those people, but make sure someone else can be.</p>
+<p>In the months leading up to &amp;:conf, each of us co-organizers simultaneously juggled major life events, full time engineering jobs, and our (unpaid) part time jobs as conference organizers. A little real talk time- my grandmother was diagnosed with cancer just two weeks before the conference. Suddenly, it was a challenge to even get up for work, much less check one more story off the conference Tracker. Having Lillie and Emily take things off my plate was an incredible life raft. I never worried that things would slip through the cracks because I had two incredible co-organizers who I trusted with both my life and coordinating housing arrangements.</p>
+<br />
+<h2>Be prepared to be overwhelmed by the kindness of friends and strangers...</h2>
+<p>We had some truly incredible sponsors (see them all on the <a href="https://www.andconf.io/" title="https://www.andconf.io/" target="_blank">&amp;:conf website</a>) who believed in this event even though at the time, it was just a hope, a dream, and a contract with a venue. So many people pitched in to help us make the conference a success that I can’t even name them all. People manned the check-in tables, served as bartenders and bus monitors, and organized lightning talks. On a personal note, I found out in the middle of the conference that my grandma’s health had taken a drastic turn for the worst. One of the conference attendees, Michael Glass, drove 5 hours to San Francisco and back so I could immediately catch a flight back home to Alabama. Next year we’d like to formalize the volunteer process so we can be sure to give our volunteers the recognition they deserve.</p>
+<br />
+<h2>...and be prepared for the unexpected</h2>
+<p>This should be a given for any conference but we had a Code of Conduct in place. Before the conference, the organizers talked through our anticipated course of action with any issues. <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy" title="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy" target="_blank">The GeekFeminism Wiki Code of Conduct</a> and <a href="http://adacamp.org/" title="http://adacamp.org/" target="_blank">AdaCamp’s Toolkit</a> were essential for this process.</p>
+<br />
+<h2>Interested in Learning More?</h2>
+<p>Check out <a href="https://medium.com/@anymoto/not-an-ordinary-summer-camp-508a679ed7c4" title="https://medium.com/@anymoto/not-an-ordinary-summer-camp-508a679ed7c4" target="_blank">Ana Castro’s excellent writeup about her experience at &amp;:conf</a>
+</p>
+<p>The Ada Initiative released their <a href="https://adacamp.org/" title="https://adacamp.org/">AdaCamp toolkit </a>with incredibly detailed advice on how to run your own feminist code retreat and unconference. I wish we’d had this from the very beginning!&#160;</p>
+<p><strong>Want to attend &amp;:conf 2016?</strong> Sign up for the <a href="http://eepurl.com/bAuGZb" title="http://eepurl.com/bAuGZb" target="_blank">mailing list</a> or follow us on <a href="https://twitter.com/andconf" title="https://twitter.com/andconf" target="_blank">twitter</a>. We’ll let you know when registration opens next year.</p>
+<p><strong>Want to sponsor &amp;:conf 2016?&#160;</strong>Email us at info@andconf.io and we’ll send you an updated prospectus when it’s available.</p>
+Tags: conference, andconf
+
+-----------------------------------------
+
+Title: My First Conference Talk- What Worked and What Didn't!
+Published At: 2016-02-26 01:23:00 UTC
+Body: <p>Woohoo, I gave my first conference talk! I spoke about load testing and site availability at <a href="http://rubyconf.org.au/2016" title="http://rubyconf.org.au/2016">RubyConf Australia</a>.&#160;The video will be up at some point, but if you're curious <a href="https://speakerdeck.com/stellacotton/site-availability-is-for-everybody" title="https://speakerdeck.com/stellacotton/site-availability-is-for-everybody">you can also check out my slides here</a>.</p>
+<p>I'm back from Australia and finally over my jetlag and my landsickness (True fact: if you go on a boat trip for three days to the Great Barrier Reef, you can completely avoid sea sickness but suffer from <a href="https://www.google.com/webhp?sourceid=chrome-instant&amp;ion=1&amp;espv=2&amp;ie=UTF-8#q=land%20sickness " title="https://www.google.com/webhp?sourceid=chrome-instant&amp;ion=1&amp;espv=2&amp;ie=UTF-8#q=land%20sickness ">LAND sickness</a> for a week when you come back!)</p>
+<p><a href="http://rubyconf.org.au/2016" title="http://rubyconf.org.au/2016">RubyConf Australia</a> was amazing. <a href="https://twitter.com/sienatime" title="https://twitter.com/sienatime">Siena</a> covered most of the highlights in her blog post, but I wanted to reiterate how lovely the conference was (and not just because I got to hold a koala).</p>
+<p>I'm not going to lie- preparing a conference talk was a ton of work! But it was totally worth it for me. I'd definitely encourage anyone who is on the fence to try it and see how it goes! If you're thinking about giving your first conference talk or in the throes of prepping one, here are a few things I found worked for me and one thing that didnt. (But obviously YMMV!)</p>
+<p><strong>What Worked for Me:</strong>
+</p>
+<p><strong>1. Not giving up</strong>
+</p>
+<p>This talk was rejected twice before it was accepted to RubyConf AU and it's been accepted once and rejected twice more since then. Some conferences like RubyKaigi gave me good feedback on why it wasn't a fit, others were a total mystery! I highly recommend submitting proposals to and being rejected from a ton of conferences. It has made me totally fearless of CFP rejection! </p>
+<p><strong>2. Going from "A Beautiful Mind" to an outline</strong>
+</p>
+<p>I found <a href="http://www.amazon.com/Beyond-Bullet-Points-PowerPoint-Presentations/dp/B002WTCBW2" title="http://www.amazon.com/Beyond-Bullet-Points-PowerPoint-Presentations/dp/B002WTCBW2"><em>Beyond Bullet Points</em>
+</a>&#160;to be a bit cheesy but incredibly helpful when I was kicking off the writing process. (It's technically about making Power Point presentations but I used Keynote instead.)</p>
+<p>It suggested starting with brainstorming a bunch of ideas onto Post-It notes and sticking them onto the wall. My apartment definitely had "A Beautiful Mind" vibe going on for a few weeks, but I was able to group, arrange, and discard ideas really easily by moving them around on the back of my bedroom door. Once I grouped them together, I turned it into an outline guided by the&#160;<a href="http://beyondbulletpoints.com/wp-content/uploads/2012/02/BBP-Story-Template-PDF.pdf" title="http://beyondbulletpoints.com/wp-content/uploads/2012/02/BBP-Story-Template-PDF.pdf"><em>Beyond Bullet Points</em> story template</a>. </p>
+<p><strong>3. Writing out my entire talk word for word before ever making slides</strong>
+</p>
+<p>I know this is definitely not something that everyone does but I was really happy I did it. As a former humanities major, I was more comfortable writing, editing, and moving content around when it wasn't already attached to a slide. It helped me see the big picture and work through some of the more complicated technical portions more easily. I just added some dashes ("-----") where I thought the slide breakdown might go.&#160;</p>
+<p>It also allowed me to more easily estimate the length of my talk as I went along. I timed myself reading a book passage out loud and estimated that I spoke 150 words per minute, so I just kept checking the word count in google docs. I left some buffer at the end because I didn't want to stress about going over my time.</p>
+<p><strong>4. Giving the talk at a meetup first (with a caveat!)</strong>
+</p>
+<p>I keep joking that my co-organizers and I started <a href="http://meetup.com/sf-dot-rb/" title="http://meetup.com/sf-dot-rb/">SF.rb</a> so that I'd have a place to give my talk before the conference. But seriously, it gave me a hard deadline to finish my talk and I could relax a bit in the week leading up to the conference.&#160;</p>
+<p>HOWEVER, I found the experience of giving the talk at the meetup to be very different from giving the talk on stage to hundreds of people. At the meetup, I could feel the energy from the audience. I could hear the light chuckling from my bad jokes and being able to see the smiles and nods was a very supportive feedback loop.&#160;</p>
+<p>Speaking from stage into a dim audience was very different. I knew from being an audience member that the crowd did have great energy, but it was difficult to feel it from stage. Fortunately both reading about it in the book <a href="http://www.amazon.com/gp/product/B002VL1CGM/ref=dp-kindle-redirect?ie=UTF8&amp;btkr=1" title="http://www.amazon.com/gp/product/B002VL1CGM/ref=dp-kindle-redirect?ie=UTF8&amp;btkr=1">Confessions of a Public Speaker</a> and talking with <a href="https://twitter.com/lilliealbert" title="https://twitter.com/lilliealbert">Lillie</a> about her similar experience meant that I was prepared for the weird feeling.</p>
+<p><strong>5. Speaking at single track conference</strong>
+</p>
+<p>Initially, speaking at a single track conference scared me MORE than speaking at a big multi-track conference like RailsConf. In my mind I kept thinking that the room would be filled with people who didn't care about seeing my talk but didn't have any other place to be. When I voiced my fears at <a href="https://www.airbnb.com/meetups/apnyfkztq-taking-flight-women-who-code-who-do-tech-talks-2" title="https://www.airbnb.com/meetups/apnyfkztq-taking-flight-women-who-code-who-do-tech-talks-2">Women Who Code Who Do Tech Talks</a>, <a href="https://twitter.com/sarahmei" title="https://twitter.com/sarahmei">Sarah Mei</a> very wisely told me that if people didn't want to see my talk, they'd just hang out in the hallway outside.&#160;</p>
+<p>RubyConf AU was such a wonderful and welcoming conference and small enough that I saw the same folks over and over. By the time I gave my talk on the second day, there were plenty of friendly faces in the audience and lots of supportive tweets (since I have no internal filter and told everyone how I was super nervous to give my first talk).</p>
+<p><strong>6. Arriving to Australia a few days early</strong>
+</p>
+<p>This was a no-brainer for me, but other people warned that I might ruin part of my trip if I arrived too early because I'd just be worrying about my talk. Because of flight timing and using a different airline to get to the Gold Coast, I ended up having a few days in Australia before I actually *spoke*. I was so grateful to be mostly past jetlag. If I had to speak on one of those first few days, it would have been a disaster and honestly, I was so distracted by being in a new place that I didn't really worry too much before the day of.</p>
+<p><strong>7. Uploading my slides the night before</strong>
+</p>
+<p>Conference wifi is notoriously spotty. Thanks to a tip from Siena, I uploaded <a href="http://bit.ly/1KeCObN" title="http://bit.ly/1KeCObN">my slides</a> to SlideShare the night before. I was too nervous about screwing up the timezone to schedule the tweet to go out automatically, but I was ready to tweet it out with the conference hashtag as soon as I got offstage.&#160;</p>
+<p><strong>8. Writing Myself a Pre-talk Checklist</strong>
+</p>
+<p>The night before, I jotted down a few notes for Future Stella and put them in my pocket. Right before I went on I knew I needed to:<br />Test my remote<br />Turn off my slack<br />Turn off my screensaver<br />Remove my necklace so it wouldn't bang against the mike<br />etc...</p>
+<p>I was so glad I did! I was so nervous that I would have forgotten most of it. It wouldn't have been the end of the world, but it made me feel more prepared and confident.</p>
+<p><strong><br />What DIDN'T Work for Me:</strong>
+</p>
+<p><strong>1. Drinking water out of a cup during my presentation</strong>
+</p>
+<p>When I spoke at the SF.rb meetup, I felt so clumsy opening the cap on a water bottle in my presentation. So I thought "oh, I'll just drink out of a cup instead!" I even wrote in little notes to myself in my presentation like "Drink water Stella! Right now!"</p>
+<p>What I didn't anticipate was that my hands would be shaking SO badly during my presentation that each time I went to take a sip of water, I would slosh it out of the glass. I was so afraid of pouring it on myself that I hardly took a sip. Like I said, YMMV!&#160;¯\_(ツ)_/¯</p>
+Tags: conference, rubyconf australia, rubyconf, public speaking
+
+-----------------------------------------
